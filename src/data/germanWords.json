@@ -7363,5 +7363,3403 @@
     "type": "adjective",
     "meaning": "loose, relaxed",
     "alternatives": [ "locker", "lockere", "lockerer", "lockeres" ]
+  },
+  "der_Januar": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "January",
+    "cases": {
+      "nominativ": { "singular": "der Januar", "plural": "die Januare" },
+      "akkusativ": { "singular": "den Januar", "plural": "die Januare" },
+      "dativ": { "singular": "dem Januar", "plural": "den Januaren" },
+      "genitiv": { "singular": "des Januars", "plural": "der Januare" }
+    },
+    "alternatives": [ "januar" ]
+  },
+  "der_Februar": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "February",
+    "cases": {
+      "nominativ": { "singular": "der Februar", "plural": "die Februare" },
+      "akkusativ": { "singular": "den Februar", "plural": "die Februare" },
+      "dativ": { "singular": "dem Februar", "plural": "den Februaren" },
+      "genitiv": { "singular": "des Februars", "plural": "der Februare" }
+    },
+    "alternatives": [ "februar" ]
+  },
+  "der_März": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "March",
+    "cases": {
+      "nominativ": { "singular": "der März", "plural": "die Märze" },
+      "akkusativ": { "singular": "den März", "plural": "die Märze" },
+      "dativ": { "singular": "dem März", "plural": "den Märzen" },
+      "genitiv": { "singular": "des Märzes", "plural": "der Märze" }
+    },
+    "alternatives": [ "märz", "märze" ]
+  },
+  "der_April": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "April",
+    "cases": {
+      "nominativ": { "singular": "der April", "plural": "die Aprile" },
+      "akkusativ": { "singular": "den April", "plural": "die Aprile" },
+      "dativ": { "singular": "dem April", "plural": "den Aprilen" },
+      "genitiv": { "singular": "des Aprils", "plural": "der Aprile" }
+    },
+    "alternatives": [ "april" ]
+  },
+  "der_Mai": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "May",
+    "cases": {
+      "nominativ": { "singular": "der Mai", "plural": "die Maie" },
+      "akkusativ": { "singular": "den Mai", "plural": "die Maie" },
+      "dativ": { "singular": "dem Mai", "plural": "den Maien" },
+      "genitiv": { "singular": "des Mais", "plural": "der Maie" }
+    },
+    "alternatives": [ "mai" ]
+  },
+  "der_Juni": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "June",
+    "cases": {
+      "nominativ": { "singular": "der Juni", "plural": "die Junis" },
+      "akkusativ": { "singular": "den Juni", "plural": "die Junis" },
+      "dativ": { "singular": "dem Juni", "plural": "den Junis" },
+      "genitiv": { "singular": "des Junis", "plural": "der Junis" }
+    },
+    "alternatives": [ "juni" ]
+  },
+  "der_Juli": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "July",
+    "cases": {
+      "nominativ": { "singular": "der Juli", "plural": "die Julis" },
+      "akkusativ": { "singular": "den Juli", "plural": "die Julis" },
+      "dativ": { "singular": "dem Juli", "plural": "den Julis" },
+      "genitiv": { "singular": "des Julis", "plural": "der Julis" }
+    },
+    "alternatives": [ "juli" ]
+  },
+  "der_August": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "August",
+    "cases": {
+      "nominativ": { "singular": "der August", "plural": "die Auguste" },
+      "akkusativ": { "singular": "den August", "plural": "die Auguste" },
+      "dativ": { "singular": "dem August", "plural": "den Augusten" },
+      "genitiv": { "singular": "des Augusts", "plural": "der Auguste" }
+    },
+    "alternatives": [ "august" ]
+  },
+  "der_September": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "September",
+    "cases": {
+      "nominativ": { "singular": "der September", "plural": "die September" },
+      "akkusativ": { "singular": "den September", "plural": "die September" },
+      "dativ": { "singular": "dem September", "plural": "den Septembern" },
+      "genitiv": { "singular": "des Septembers", "plural": "der September" }
+    },
+    "alternatives": [ "september" ]
+  },
+  "der_Oktober": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "October",
+    "cases": {
+      "nominativ": { "singular": "der Oktober", "plural": "die Oktober" },
+      "akkusativ": { "singular": "den Oktober", "plural": "die Oktober" },
+      "dativ": { "singular": "dem Oktober", "plural": "den Oktobern" },
+      "genitiv": { "singular": "des Oktobers", "plural": "der Oktober" }
+    },
+    "alternatives": [ "oktober" ]
+  },
+  "der_November": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "November",
+    "cases": {
+      "nominativ": { "singular": "der November", "plural": "die November" },
+      "akkusativ": { "singular": "den November", "plural": "die November" },
+      "dativ": { "singular": "dem November", "plural": "den Novembern" },
+      "genitiv": { "singular": "des Novembers", "plural": "der November" }
+    },
+    "alternatives": [ "november" ]
+  },
+  "der_Dezember": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "December",
+    "cases": {
+      "nominativ": { "singular": "der Dezember", "plural": "die Dezember" },
+      "akkusativ": { "singular": "den Dezember", "plural": "die Dezember" },
+      "dativ": { "singular": "dem Dezember", "plural": "den Dezembern" },
+      "genitiv": { "singular": "des Dezembers", "plural": "der Dezember" }
+    },
+    "alternatives": [ "dezember" ]
+  },
+  "der_Frühling": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "spring",
+    "cases": {
+      "nominativ": { "singular": "der Frühling", "plural": "die Frühlinge" },
+      "akkusativ": { "singular": "den Frühling", "plural": "die Frühlinge" },
+      "dativ": { "singular": "dem Frühling", "plural": "den Frühlingen" },
+      "genitiv": { "singular": "des Frühlings", "plural": "der Frühlinge" }
+    },
+    "alternatives": [ "frühling", "frühlinge" ]
+  },
+  "der_Sommer": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "summer",
+    "cases": {
+      "nominativ": { "singular": "der Sommer", "plural": "die Sommer" },
+      "akkusativ": { "singular": "den Sommer", "plural": "die Sommer" },
+      "dativ": { "singular": "dem Sommer", "plural": "den Sommern" },
+      "genitiv": { "singular": "des Sommers", "plural": "der Sommer" }
+    },
+    "alternatives": [ "sommer" ]
+  },
+  "der_Herbst": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "autumn, fall",
+    "cases": {
+      "nominativ": { "singular": "der Herbst", "plural": "die Herbste" },
+      "akkusativ": { "singular": "den Herbst", "plural": "die Herbste" },
+      "dativ": { "singular": "dem Herbst", "plural": "den Herbsten" },
+      "genitiv": { "singular": "des Herbstes", "plural": "der Herbste" }
+    },
+    "alternatives": [ "herbst", "herbste" ]
+  },
+  "der_Winter": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "winter",
+    "cases": {
+      "nominativ": { "singular": "der Winter", "plural": "die Winter" },
+      "akkusativ": { "singular": "den Winter", "plural": "die Winter" },
+      "dativ": { "singular": "dem Winter", "plural": "den Wintern" },
+      "genitiv": { "singular": "des Winters", "plural": "der Winter" }
+    },
+    "alternatives": [ "winter" ]
+  },
+  "der_Montag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Monday",
+    "cases": {
+      "nominativ": { "singular": "der Montag", "plural": "die Montage" },
+      "akkusativ": { "singular": "den Montag", "plural": "die Montage" },
+      "dativ": { "singular": "dem Montag", "plural": "den Montagen" },
+      "genitiv": { "singular": "des Montags", "plural": "der Montage" }
+    },
+    "alternatives": [ "montag", "montage" ]
+  },
+  "der_Dienstag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Tuesday",
+    "cases": {
+      "nominativ": { "singular": "der Dienstag", "plural": "die Dienstage" },
+      "akkusativ": { "singular": "den Dienstag", "plural": "die Dienstage" },
+      "dativ": { "singular": "dem Dienstag", "plural": "den Dienstagen" },
+      "genitiv": { "singular": "des Dienstags", "plural": "der Dienstage" }
+    },
+    "alternatives": [ "dienstag", "dienstage" ]
+  },
+  "der_Mittwoch": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Wednesday",
+    "cases": {
+      "nominativ": { "singular": "der Mittwoch", "plural": "die Mittwoche" },
+      "akkusativ": { "singular": "den Mittwoch", "plural": "die Mittwoche" },
+      "dativ": { "singular": "dem Mittwoch", "plural": "den Mittwochen" },
+      "genitiv": { "singular": "des Mittwochs", "plural": "der Mittwoche" }
+    },
+    "alternatives": [ "mittwoch", "mittwoche" ]
+  },
+  "der_Donnerstag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Thursday",
+    "cases": {
+      "nominativ": { "singular": "der Donnerstag", "plural": "die Donnerstage" },
+      "akkusativ": { "singular": "den Donnerstag", "plural": "die Donnerstage" },
+      "dativ": { "singular": "dem Donnerstag", "plural": "den Donnerstagen" },
+      "genitiv": { "singular": "des Donnerstags", "plural": "der Donnerstage" }
+    },
+    "alternatives": [ "donnerstag", "donnerstage" ]
+  },
+  "der_Freitag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Friday",
+    "cases": {
+      "nominativ": { "singular": "der Freitag", "plural": "die Freitage" },
+      "akkusativ": { "singular": "den Freitag", "plural": "die Freitage" },
+      "dativ": { "singular": "dem Freitag", "plural": "den Freitagen" },
+      "genitiv": { "singular": "des Freitags", "plural": "der Freitage" }
+    },
+    "alternatives": [ "freitag", "freitage" ]
+  },
+  "der_Samstag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Saturday",
+    "cases": {
+      "nominativ": { "singular": "der Samstag", "plural": "die Samstage" },
+      "akkusativ": { "singular": "den Samstag", "plural": "die Samstage" },
+      "dativ": { "singular": "dem Samstag", "plural": "den Samstagen" },
+      "genitiv": { "singular": "des Samstags", "plural": "der Samstage" }
+    },
+    "alternatives": [ "samstag", "samstage", "sonnabend" ]
+  },
+  "der_Sonntag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "Sunday",
+    "cases": {
+      "nominativ": { "singular": "der Sonntag", "plural": "die Sonntage" },
+      "akkusativ": { "singular": "den Sonntag", "plural": "die Sonntage" },
+      "dativ": { "singular": "dem Sonntag", "plural": "den Sonntagen" },
+      "genitiv": { "singular": "des Sonntags", "plural": "der Sonntage" }
+    },
+    "alternatives": [ "sonntag", "sonntage" ]
+  },
+  "die_Zahl": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the number",
+    "cases": {
+      "nominativ": { "singular": "die Zahl", "plural": "die Zahlen" },
+      "akkusativ": { "singular": "die Zahl", "plural": "die Zahlen" },
+      "dativ": { "singular": "der Zahl", "plural": "den Zahlen" },
+      "genitiv": { "singular": "der Zahl", "plural": "der Zahlen" }
+    },
+    "alternatives": [ "zahl", "zahlen" ]
+  },
+  "das_Datum": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the date",
+    "cases": {
+      "nominativ": { "singular": "das Datum", "plural": "die Daten" },
+      "akkusativ": { "singular": "das Datum", "plural": "die Daten" },
+      "dativ": { "singular": "dem Datum", "plural": "den Daten" },
+      "genitiv": { "singular": "des Datums", "plural": "der Daten" }
+    },
+    "alternatives": [ "datum", "daten" ]
+  },
+  "die_Welt": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the world",
+    "cases": {
+      "nominativ": { "singular": "die Welt", "plural": "die Welten" },
+      "akkusativ": { "singular": "die Welt", "plural": "die Welten" },
+      "dativ": { "singular": "der Welt", "plural": "den Welten" },
+      "genitiv": { "singular": "der Welt", "plural": "der Welten" }
+    },
+    "alternatives": [ "welt", "welten" ]
+  },
+  "das_Wetter": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the weather",
+    "cases": {
+      "nominativ": { "singular": "das Wetter", "plural": "-" },
+      "akkusativ": { "singular": "das Wetter", "plural": "-" },
+      "dativ": { "singular": "dem Wetter", "plural": "-" },
+      "genitiv": { "singular": "des Wetters", "plural": "-" }
+    },
+    "alternatives": [ "wetter" ]
+  },
+  "das_Wochenende": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the weekend",
+    "cases": {
+      "nominativ": { "singular": "das Wochenende", "plural": "die Wochenenden" },
+      "akkusativ": { "singular": "das Wochenende", "plural": "die Wochenenden" },
+      "dativ": { "singular": "dem Wochenende", "plural": "den Wochenenden" },
+      "genitiv": { "singular": "des Wochenendes", "plural": "der Wochenenden" }
+    },
+    "alternatives": [ "wochenende", "wochenenden" ]
+  },
+  "die_Party": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the party",
+    "cases": {
+      "nominativ": { "singular": "die Party", "plural": "die Partys" },
+      "akkusativ": { "singular": "die Party", "plural": "die Partys" },
+      "dativ": { "singular": "der Party", "plural": "den Partys" },
+      "genitiv": { "singular": "der Party", "plural": "der Partys" }
+    },
+    "alternatives": [ "party", "partys" ]
+  },
+  "der_Körper": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the body",
+    "cases": {
+      "nominativ": { "singular": "der Körper", "plural": "die Körper" },
+      "akkusativ": { "singular": "den Körper", "plural": "die Körper" },
+      "dativ": { "singular": "dem Körper", "plural": "den Körpern" },
+      "genitiv": { "singular": "des Körpers", "plural": "der Körper" }
+    },
+    "alternatives": [ "körper" ]
+  },
+  "die_Schulter": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the shoulder",
+    "cases": {
+      "nominativ": { "singular": "die Schulter", "plural": "die Schultern" },
+      "akkusativ": { "singular": "die Schulter", "plural": "die Schultern" },
+      "dativ": { "singular": "der Schulter", "plural": "den Schultern" },
+      "genitiv": { "singular": "der Schulter", "plural": "der Schultern" }
+    },
+    "alternatives": [ "schulter", "schultern" ]
+  },
+  "das_Knie": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the knee",
+    "cases": {
+      "nominativ": { "singular": "das Knie", "plural": "die Knie" },
+      "akkusativ": { "singular": "das Knie", "plural": "die Knie" },
+      "dativ": { "singular": "dem Knie", "plural": "den Knien" },
+      "genitiv": { "singular": "des Knies", "plural": "der Knie" }
+    },
+    "alternatives": [ "knie" ]
+  },
+  "der_Hals": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the neck, throat",
+    "cases": {
+      "nominativ": { "singular": "der Hals", "plural": "die Hälse" },
+      "akkusativ": { "singular": "den Hals", "plural": "die Hälse" },
+      "dativ": { "singular": "dem Hals", "plural": "den Hälsen" },
+      "genitiv": { "singular": "des Halses", "plural": "der Hälse" }
+    },
+    "alternatives": [ "hals", "hälse" ]
+  },
+  "die_Brust": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the chest, breast",
+    "cases": {
+      "nominativ": { "singular": "die Brust", "plural": "die Brüste" },
+      "akkusativ": { "singular": "die Brust", "plural": "die Brüste" },
+      "dativ": { "singular": "der Brust", "plural": "den Brüsten" },
+      "genitiv": { "singular": "der Brust", "plural": "der Brüste" }
+    },
+    "alternatives": [ "brust", "brüste" ]
+  },
+  "das_Gesicht": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the face",
+    "cases": {
+      "nominativ": { "singular": "das Gesicht", "plural": "die Gesichter" },
+      "akkusativ": { "singular": "das Gesicht", "plural": "die Gesichter" },
+      "dativ": { "singular": "dem Gesicht", "plural": "den Gesichtern" },
+      "genitiv": { "singular": "des Gesichtes", "plural": "der Gesichter" }
+    },
+    "alternatives": [ "gesicht", "gesichter" ]
+  },
+  "die_Stirn": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the forehead",
+    "cases": {
+      "nominativ": { "singular": "die Stirn", "plural": "die Stirnen" },
+      "akkusativ": { "singular": "die Stirn", "plural": "die Stirnen" },
+      "dativ": { "singular": "der Stirn", "plural": "den Stirnen" },
+      "genitiv": { "singular": "der Stirn", "plural": "der Stirnen" }
+    },
+    "alternatives": [ "stirn", "stirnen" ]
+  },
+  "die_Lippe": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the lip",
+    "cases": {
+      "nominativ": { "singular": "die Lippe", "plural": "die Lippen" },
+      "akkusativ": { "singular": "die Lippe", "plural": "die Lippen" },
+      "dativ": { "singular": "der Lippe", "plural": "den Lippen" },
+      "genitiv": { "singular": "der Lippe", "plural": "der Lippen" }
+    },
+    "alternatives": [ "lippe", "lippen" ]
+  },
+  "die_Zunge": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the tongue",
+    "cases": {
+      "nominativ": { "singular": "die Zunge", "plural": "die Zungen" },
+      "akkusativ": { "singular": "die Zunge", "plural": "die Zungen" },
+      "dativ": { "singular": "der Zunge", "plural": "den Zungen" },
+      "genitiv": { "singular": "der Zunge", "plural": "der Zungen" }
+    },
+    "alternatives": [ "zunge", "zungen" ]
+  },
+  "das_Kinn": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the chin",
+    "cases": {
+      "nominativ": { "singular": "das Kinn", "plural": "die Kinne" },
+      "akkusativ": { "singular": "das Kinn", "plural": "die Kinne" },
+      "dativ": { "singular": "dem Kinn", "plural": "den Kinnen" },
+      "genitiv": { "singular": "des Kinnes", "plural": "der Kinne" }
+    },
+    "alternatives": [ "kinn", "kinne" ]
+  },
+  "die_Haut": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the skin",
+    "cases": {
+      "nominativ": { "singular": "die Haut", "plural": "die Häute" },
+      "akkusativ": { "singular": "die Haut", "plural": "die Häute" },
+      "dativ": { "singular": "der Haut", "plural": "den Häuten" },
+      "genitiv": { "singular": "der Haut", "plural": "der Häute" }
+    },
+    "alternatives": [ "haut", "häute" ]
+  },
+  "das_Bügeleisen": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the iron (for clothes)",
+    "cases": {
+        "nominativ": { "singular": "das Bügeleisen", "plural": "die Bügeleisen" },
+        "akkusativ": { "singular": "das Bügeleisen", "plural": "die Bügeleisen" },
+        "dativ": { "singular": "dem Bügeleisen", "plural": "den Bügeleisen" },
+        "genitiv": { "singular": "des Bügeleisens", "plural": "der Bügeleisen" }
+    },
+    "alternatives": [ "bügeleisen" ]
+  },
+  "der_Kleiderschrank": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the wardrobe",
+    "cases": {
+        "nominativ": { "singular": "der Kleiderschrank", "plural": "die Kleiderschränke" },
+        "akkusativ": { "singular": "den Kleiderschrank", "plural": "die Kleiderschränke" },
+        "dativ": { "singular": "dem Kleiderschrank", "plural": "den Kleiderschränken" },
+        "genitiv": { "singular": "des Kleiderschrankes", "plural": "der Kleiderschränke" }
+    },
+    "alternatives": [ "kleiderschrank", "kleiderschränke" ]
+  },
+  "die_Matratze": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the mattress",
+    "cases": {
+        "nominativ": { "singular": "die Matratze", "plural": "die Matratzen" },
+        "akkusativ": { "singular": "die Matratze", "plural": "die Matratzen" },
+        "dativ": { "singular": "der Matratze", "plural": "den Matratzen" },
+        "genitiv": { "singular": "der Matratze", "plural": "der Matratzen" }
+    },
+    "alternatives": [ "matratze", "matratzen" ]
+  },
+  "das_Sofa": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the sofa, couch",
+    "cases": {
+        "nominativ": { "singular": "das Sofa", "plural": "die Sofas" },
+        "akkusativ": { "singular": "das Sofa", "plural": "die Sofas" },
+        "dativ": { "singular": "dem Sofa", "plural": "den Sofas" },
+        "genitiv": { "singular": "des Sofas", "plural": "der Sofas" }
+    },
+    "alternatives": [ "sofa", "sofas" ]
+  },
+  "der_Sessel": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the armchair",
+    "cases": {
+        "nominativ": { "singular": "der Sessel", "plural": "die Sessel" },
+        "akkusativ": { "singular": "den Sessel", "plural": "die Sessel" },
+        "dativ": { "singular": "dem Sessel", "plural": "den Sesseln" },
+        "genitiv": { "singular": "des Sessels", "plural": "der Sessel" }
+    },
+    "alternatives": [ "sessel" ]
+  },
+  "das_Regal": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the shelf, bookshelf",
+    "cases": {
+        "nominativ": { "singular": "das Regal", "plural": "die Regale" },
+        "akkusativ": { "singular": "das Regal", "plural": "die Regale" },
+        "dativ": { "singular": "dem Regal", "plural": "den Regalen" },
+        "genitiv": { "singular": "des Regals", "plural": "der Regale" }
+    },
+    "alternatives": [ "regal", "regale" ]
+  },
+  "die_Heizung": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the heating",
+    "cases": {
+        "nominativ": { "singular": "die Heizung", "plural": "die Heizungen" },
+        "akkusativ": { "singular": "die Heizung", "plural": "die Heizungen" },
+        "dativ": { "singular": "der Heizung", "plural": "den Heizungen" },
+        "genitiv": { "singular": "der Heizung", "plural": "der Heizungen" }
+    },
+    "alternatives": [ "heizung", "heizungen" ]
+  },
+  "die_Treppe": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the stairs, staircase",
+    "cases": {
+        "nominativ": { "singular": "die Treppe", "plural": "die Treppen" },
+        "akkusativ": { "singular": "die Treppe", "plural": "die Treppen" },
+        "dativ": { "singular": "der Treppe", "plural": "den Treppen" },
+        "genitiv": { "singular": "der Treppe", "plural": "der Treppen" }
+    },
+    "alternatives": [ "treppe", "treppen" ]
+  },
+  "der_Aufzug": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the elevator, lift",
+    "cases": {
+        "nominativ": { "singular": "der Aufzug", "plural": "die Aufzüge" },
+        "akkusativ": { "singular": "den Aufzug", "plural": "die Aufzüge" },
+        "dativ": { "singular": "dem Aufzug", "plural": "den Aufzügen" },
+        "genitiv": { "singular": "des Aufzuges", "plural": "der Aufzüge" }
+    },
+    "alternatives": [ "aufzug", "aufzüge" ]
+  },
+  "das_Waschbecken": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the sink (bathroom)",
+    "cases": {
+        "nominativ": { "singular": "das Waschbecken", "plural": "die Waschbecken" },
+        "akkusativ": { "singular": "das Waschbecken", "plural": "die Waschbecken" },
+        "dativ": { "singular": "dem Waschbecken", "plural": "den Waschbecken" },
+        "genitiv": { "singular": "des Waschbeckens", "plural": "der Waschbecken" }
+    },
+    "alternatives": [ "waschbecken" ]
+  },
+  "die_Dusche": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the shower",
+    "cases": {
+        "nominativ": { "singular": "die Dusche", "plural": "die Duschen" },
+        "akkusativ": { "singular": "die Dusche", "plural": "die Duschen" },
+        "dativ": { "singular": "der Dusche", "plural": "den Duschen" },
+        "genitiv": { "singular": "der Dusche", "plural": "der Duschen" }
+    },
+    "alternatives": [ "dusche", "duschen" ]
+  },
+  "die_Badewanne": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the bathtub",
+    "cases": {
+        "nominativ": { "singular": "die Badewanne", "plural": "die Badewannen" },
+        "akkusativ": { "singular": "die Badewanne", "plural": "die Badewannen" },
+        "dativ": { "singular": "der Badewanne", "plural": "den Badewannen" },
+        "genitiv": { "singular": "der Badewanne", "plural": "der Badewannen" }
+    },
+    "alternatives": [ "badewanne", "badewannen" ]
+  },
+  "die_Toilette": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the toilet",
+    "cases": {
+        "nominativ": { "singular": "die Toilette", "plural": "die Toiletten" },
+        "akkusativ": { "singular": "die Toilette", "plural": "die Toiletten" },
+        "dativ": { "singular": "der Toilette", "plural": "den Toiletten" },
+        "genitiv": { "singular": "der Toilette", "plural": "der Toiletten" }
+    },
+    "alternatives": [ "toilette", "toiletten" ]
+  },
+  "das_Handtuch": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the towel",
+    "cases": {
+        "nominativ": { "singular": "das Handtuch", "plural": "die Handtücher" },
+        "akkusativ": { "singular": "das Handtuch", "plural": "die Handtücher" },
+        "dativ": { "singular": "dem Handtuch", "plural": "den Handtüchern" },
+        "genitiv": { "singular": "des Handtuches", "plural": "der Handtücher" }
+    },
+    "alternatives": [ "handtuch", "handtücher" ]
+  },
+  "die_Seife": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the soap",
+    "cases": {
+        "nominativ": { "singular": "die Seife", "plural": "die Seifen" },
+        "akkusativ": { "singular": "die Seife", "plural": "die Seifen" },
+        "dativ": { "singular": "der Seife", "plural": "den Seifen" },
+        "genitiv": { "singular": "der Seife", "plural": "der Seifen" }
+    },
+    "alternatives": [ "seife", "seifen" ]
+  },
+  "die_Zahnbürste": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the toothbrush",
+    "cases": {
+        "nominativ": { "singular": "die Zahnbürste", "plural": "die Zahnbürsten" },
+        "akkusativ": { "singular": "die Zahnbürste", "plural": "die Zahnbürsten" },
+        "dativ": { "singular": "der Zahnbürste", "plural": "den Zahnbürsten" },
+        "genitiv": { "singular": "der Zahnbürste", "plural": "der Zahnbürsten" }
+    },
+    "alternatives": [ "zahnbürste", "zahnbürsten" ]
+  },
+  "die_Zahnpasta": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the toothpaste",
+    "cases": {
+        "nominativ": { "singular": "die Zahnpasta", "plural": "die Zahnpasten" },
+        "akkusativ": { "singular": "die Zahnpasta", "plural": "die Zahnpasten" },
+        "dativ": { "singular": "der Zahnpasta", "plural": "den Zahnpasten" },
+        "genitiv": { "singular": "der Zahnpasta", "plural": "der Zahnpasten" }
+    },
+    "alternatives": [ "zahnpasta", "zahnpasten" ]
+  },
+  "der_Reis": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the rice",
+    "cases": {
+      "nominativ": { "singular": "der Reis", "plural": "die Reise" },
+      "akkusativ": { "singular": "den Reis", "plural": "die Reise" },
+      "dativ": { "singular": "dem Reis", "plural": "den Reisen" },
+      "genitiv": { "singular": "des Reises", "plural": "der Reise" }
+    },
+    "alternatives": [ "reis", "reise" ]
+  },
+  "die_Nudel": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the noodle, pasta",
+    "cases": {
+      "nominativ": { "singular": "die Nudel", "plural": "die Nudeln" },
+      "akkusativ": { "singular": "die Nudel", "plural": "die Nudeln" },
+      "dativ": { "singular": "der Nudel", "plural": "den Nudeln" },
+      "genitiv": { "singular": "der Nudel", "plural": "der Nudeln" }
+    },
+    "alternatives": [ "nudel", "nudeln" ]
+  },
+  "die_Suppe": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the soup",
+    "cases": {
+      "nominativ": { "singular": "die Suppe", "plural": "die Suppen" },
+      "akkusativ": { "singular": "die Suppe", "plural": "die Suppen" },
+      "dativ": { "singular": "der Suppe", "plural": "den Suppen" },
+      "genitiv": { "singular": "der Suppe", "plural": "der Suppen" }
+    },
+    "alternatives": [ "suppe", "suppen" ]
+  },
+  "der_Salat": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the salad",
+    "cases": {
+      "nominativ": { "singular": "der Salat", "plural": "die Salate" },
+      "akkusativ": { "singular": "den Salat", "plural": "die Salate" },
+      "dativ": { "singular": "dem Salat", "plural": "den Salaten" },
+      "genitiv": { "singular": "des Salates", "plural": "der Salate" }
+    },
+    "alternatives": [ "salat", "salate" ]
+  },
+  "die_Soße": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the sauce, gravy",
+    "cases": {
+      "nominativ": { "singular": "die Soße", "plural": "die Soßen" },
+      "akkusativ": { "singular": "die Soße", "plural": "die Soßen" },
+      "dativ": { "singular": "der Soße", "plural": "den Soßen" },
+      "genitiv": { "singular": "der Soße", "plural": "der Soßen" }
+    },
+    "alternatives": [ "soße", "soßen" ]
+  },
+  "das_Öl": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the oil",
+    "cases": {
+      "nominativ": { "singular": "das Öl", "plural": "die Öle" },
+      "akkusativ": { "singular": "das Öl", "plural": "die Öle" },
+      "dativ": { "singular": "dem Öl", "plural": "den Ölen" },
+      "genitiv": { "singular": "des Öles", "plural": "der Öle" }
+    },
+    "alternatives": [ "öl", "öle" ]
+  },
+  "der_Essig": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the vinegar",
+    "cases": {
+      "nominativ": { "singular": "der Essig", "plural": "die Essige" },
+      "akkusativ": { "singular": "den Essig", "plural": "die Essige" },
+      "dativ": { "singular": "dem Essig", "plural": "den Essigen" },
+      "genitiv": { "singular": "des Essigs", "plural": "der Essige" }
+    },
+    "alternatives": [ "essig", "essige" ]
+  },
+  "die_Zwiebel": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the onion",
+    "cases": {
+      "nominativ": { "singular": "die Zwiebel", "plural": "die Zwiebeln" },
+      "akkusativ": { "singular": "die Zwiebel", "plural": "die Zwiebeln" },
+      "dativ": { "singular": "der Zwiebel", "plural": "den Zwiebeln" },
+      "genitiv": { "singular": "der Zwiebel", "plural": "der Zwiebeln" }
+    },
+    "alternatives": [ "zwiebel", "zwiebeln" ]
+  },
+  "der_Knoblauch": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the garlic",
+    "cases": {
+      "nominativ": { "singular": "der Knoblauch", "plural": "-" },
+      "akkusativ": { "singular": "den Knoblauch", "plural": "-" },
+      "dativ": { "singular": "dem Knoblauch", "plural": "-" },
+      "genitiv": { "singular": "des Knoblauchs", "plural": "-" }
+    },
+    "alternatives": [ "knoblauch" ]
+  },
+  "die_Tomate": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the tomato",
+    "cases": {
+      "nominativ": { "singular": "die Tomate", "plural": "die Tomaten" },
+      "akkusativ": { "singular": "die Tomate", "plural": "die Tomaten" },
+      "dativ": { "singular": "der Tomate", "plural": "den Tomaten" },
+      "genitiv": { "singular": "der Tomate", "plural": "der Tomaten" }
+    },
+    "alternatives": [ "tomate", "tomaten" ]
+  },
+  "die_Gurke": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the cucumber",
+    "cases": {
+      "nominativ": { "singular": "die Gurke", "plural": "die Gurken" },
+      "akkusativ": { "singular": "die Gurke", "plural": "die Gurken" },
+      "dativ": { "singular": "der Gurke", "plural": "den Gurken" },
+      "genitiv": { "singular": "der Gurke", "plural": "der Gurken" }
+    },
+    "alternatives": [ "gurke", "gurken" ]
+  },
+  "die_Karotte": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the carrot",
+    "cases": {
+      "nominativ": { "singular": "die Karotte", "plural": "die Karotten" },
+      "akkusativ": { "singular": "die Karotte", "plural": "die Karotten" },
+      "dativ": { "singular": "der Karotte", "plural": "den Karotten" },
+      "genitiv": { "singular": "der Karotte", "plural": "der Karotten" }
+    },
+    "alternatives": [ "karotte", "karotten", "möhre" ]
+  },
+  "die_Zitrone": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the lemon",
+    "cases": {
+      "nominativ": { "singular": "die Zitrone", "plural": "die Zitronen" },
+      "akkusativ": { "singular": "die Zitrone", "plural": "die Zitronen" },
+      "dativ": { "singular": "der Zitrone", "plural": "den Zitronen" },
+      "genitiv": { "singular": "der Zitrone", "plural": "der Zitronen" }
+    },
+    "alternatives": [ "zitrone", "zitronen" ]
+  },
+  "die_Erdbeere": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the strawberry",
+    "cases": {
+      "nominativ": { "singular": "die Erdbeere", "plural": "die Erdbeeren" },
+      "akkusativ": { "singular": "die Erdbeere", "plural": "die Erdbeeren" },
+      "dativ": { "singular": "der Erdbeere", "plural": "den Erdbeeren" },
+      "genitiv": { "singular": "der Erdbeere", "plural": "der Erdbeeren" }
+    },
+    "alternatives": [ "erdbeere", "erdbeeren" ]
+  },
+  "die_Himbeere": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the raspberry",
+    "cases": {
+      "nominativ": { "singular": "die Himbeere", "plural": "die Himbeeren" },
+      "akkusativ": { "singular": "die Himbeere", "plural": "die Himbeeren" },
+      "dativ": { "singular": "der Himbeere", "plural": "den Himbeeren" },
+      "genitiv": { "singular": "der Himbeere", "plural": "der Himbeeren" }
+    },
+    "alternatives": [ "himbeere", "himbeeren" ]
+  },
+  "die_Kirsche": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the cherry",
+    "cases": {
+      "nominativ": { "singular": "die Kirsche", "plural": "die Kirschen" },
+      "akkusativ": { "singular": "die Kirsche", "plural": "die Kirschen" },
+      "dativ": { "singular": "der Kirsche", "plural": "den Kirschen" },
+      "genitiv": { "singular": "der Kirsche", "plural": "der Kirschen" }
+    },
+    "alternatives": [ "kirsche", "kirschen" ]
+  },
+  "die_Traube": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the grape",
+    "cases": {
+      "nominativ": { "singular": "die Traube", "plural": "die Trauben" },
+      "akkusativ": { "singular": "die Traube", "plural": "die Trauben" },
+      "dativ": { "singular": "der Traube", "plural": "den Trauben" },
+      "genitiv": { "singular": "der Traube", "plural": "der Trauben" }
+    },
+    "alternatives": [ "traube", "trauben" ]
+  },
+  "die_Wurst": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the sausage",
+    "cases": {
+      "nominativ": { "singular": "die Wurst", "plural": "die Würste" },
+      "akkusativ": { "singular": "die Wurst", "plural": "die Würste" },
+      "dativ": { "singular": "der Wurst", "plural": "den Würsten" },
+      "genitiv": { "singular": "der Wurst", "plural": "der Würste" }
+    },
+    "alternatives": [ "wurst", "würste" ]
+  },
+  "der_Schinken": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the ham",
+    "cases": {
+      "nominativ": { "singular": "der Schinken", "plural": "die Schinken" },
+      "akkusativ": { "singular": "den Schinken", "plural": "die Schinken" },
+      "dativ": { "singular": "dem Schinken", "plural": "den Schinken" },
+      "genitiv": { "singular": "des Schinkens", "plural": "der Schinken" }
+    },
+    "alternatives": [ "schinken" ]
+  },
+  "die_Nachspeise": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the dessert",
+    "cases": {
+        "nominativ": { "singular": "die Nachspeise", "plural": "die Nachspeisen" },
+        "akkusativ": { "singular": "die Nachspeise", "plural": "die Nachspeisen" },
+        "dativ": { "singular": "der Nachspeise", "plural": "den Nachspeisen" },
+        "genitiv": { "singular": "der Nachspeise", "plural": "der Nachspeisen" }
+    },
+    "alternatives": [ "nachspeise", "nachspeisen", "dessert" ]
+  },
+  "anbieten": {
+    "type": "verb",
+    "infinitive": "anbieten",
+    "meaning": "to offer",
+    "conjugations": {
+      "present": { "ich": "biete an", "du": "bietest an", "er": "bietet an", "sie": "bietet an", "es": "bietet an", "wir": "bieten an", "ihr": "bietet an", "sie_plural": "bieten an" },
+      "past": { "ich": "bot an", "du": "botest an", "er": "bot an", "sie": "bot an", "es": "bot an", "wir": "boten an", "ihr": "botet an", "sie_plural": "boten an" },
+      "perfect": { "ich": "habe angeboten", "du": "hast angeboten", "er": "hat angeboten", "sie": "hat angeboten", "es": "hat angeboten", "wir": "haben angeboten", "ihr": "habt angeboten", "sie_plural": "haben angeboten" }
+    },
+    "alternatives": [ "biete an", "bietest an", "bietet an", "bot an", "angeboten" ]
+  },
+  "ausziehen": {
+    "type": "verb",
+    "infinitive": "ausziehen",
+    "meaning": "to move out, take off (clothes)",
+    "conjugations": {
+      "present": { "ich": "ziehe aus", "du": "ziehst aus", "er": "zieht aus", "sie": "zieht aus", "es": "zieht aus", "wir": "ziehen aus", "ihr": "zieht aus", "sie_plural": "ziehen aus" },
+      "past": { "ich": "zog aus", "du": "zogst aus", "er": "zog aus", "sie": "zog aus", "es": "zog aus", "wir": "zogen aus", "ihr": "zogt aus", "sie_plural": "zogen aus" },
+      "perfect": { "ich": "bin ausgezogen", "du": "bist ausgezogen", "er": "ist ausgezogen", "sie": "ist ausgezogen", "es": "ist ausgezogen", "wir": "sind ausgezogen", "ihr": "seid ausgezogen", "sie_plural": "sind ausgezogen" }
+    },
+    "alternatives": [ "ziehe aus", "ziehst aus", "zieht aus", "zog aus", "ausgezogen" ]
+  },
+  "anziehen": {
+    "type": "verb",
+    "infinitive": "anziehen",
+    "meaning": "to get dressed, put on",
+    "conjugations": {
+      "present": { "ich": "ziehe an", "du": "ziehst an", "er": "zieht an", "sie": "zieht an", "es": "zieht an", "wir": "ziehen an", "ihr": "zieht an", "sie_plural": "ziehen an" },
+      "past": { "ich": "zog an", "du": "zogst an", "er": "zog an", "sie": "zog an", "es": "zog an", "wir": "zogen an", "ihr": "zogt an", "sie_plural": "zogen an" },
+      "perfect": { "ich": "habe angezogen", "du": "hast angezogen", "er": "hat angezogen", "sie": "hat angezogen", "es": "hat angezogen", "wir": "haben angezogen", "ihr": "habt angezogen", "sie_plural": "haben angezogen" }
+    },
+    "alternatives": [ "ziehe an", "ziehst an", "zieht an", "zog an", "angezogen" ]
+  },
+  "besuchen": {
+    "type": "verb",
+    "infinitive": "besuchen",
+    "meaning": "to visit",
+    "conjugations": {
+      "present": { "ich": "besuche", "du": "besuchst", "er": "besucht", "sie": "besucht", "es": "besucht", "wir": "besuchen", "ihr": "besucht", "sie_plural": "besuchen" },
+      "past": { "ich": "besuchte", "du": "besuchtest", "er": "besuchte", "sie": "besuchte", "es": "besuchte", "wir": "besuchten", "ihr": "besuchtet", "sie_plural": "besuchten" },
+      "perfect": { "ich": "habe besucht", "du": "hast besucht", "er": "hat besucht", "sie": "hat besucht", "es": "hat besucht", "wir": "haben besucht", "ihr": "habt besucht", "sie_plural": "haben besucht" }
+    },
+    "alternatives": [ "besuche", "besuchst", "besucht", "besuchte" ]
+  },
+  "buchen": {
+    "type": "verb",
+    "infinitive": "buchen",
+    "meaning": "to book, reserve",
+    "conjugations": {
+      "present": { "ich": "buche", "du": "buchst", "er": "bucht", "sie": "bucht", "es": "bucht", "wir": "buchen", "ihr": "bucht", "sie_plural": "buchen" },
+      "past": { "ich": "buchte", "du": "buchtest", "er": "buchte", "sie": "buchte", "es": "buchte", "wir": "buchten", "ihr": "buchtet", "sie_plural": "buchten" },
+      "perfect": { "ich": "habe gebucht", "du": "hast gebucht", "er": "hat gebucht", "sie": "hat gebucht", "es": "hat gebucht", "wir": "haben gebucht", "ihr": "habt gebucht", "sie_plural": "haben gebucht" }
+    },
+    "alternatives": [ "buche", "buchst", "bucht", "buchte", "gebucht" ]
+  },
+  "dauern": {
+    "type": "verb",
+    "infinitive": "dauern",
+    "meaning": "to last, take (time)",
+    "conjugations": {
+      "present": { "ich": "dauere", "du": "dauerst", "er": "dauert", "sie": "dauert", "es": "dauert", "wir": "dauern", "ihr": "dauert", "sie_plural": "dauern" },
+      "past": { "ich": "dauerte", "du": "dauertest", "er": "dauerte", "sie": "dauerte", "es": "dauerte", "wir": "dauerten", "ihr": "dauertet", "sie_plural": "dauerten" },
+      "perfect": { "ich": "habe gedauert", "du": "hast gedauert", "er": "hat gedauert", "sie": "hat gedauert", "es": "hat gedauert", "wir": "haben gedauert", "ihr": "habt gedauert", "sie_plural": "haben gedauert" }
+    },
+    "alternatives": [ "dauere", "dauerst", "dauert", "dauerte", "gedauert" ]
+  },
+  "fehlen": {
+    "type": "verb",
+    "infinitive": "fehlen",
+    "meaning": "to be missing, absent",
+    "conjugations": {
+      "present": { "ich": "fehle", "du": "fehlst", "er": "fehlt", "sie": "fehlt", "es": "fehlt", "wir": "fehlen", "ihr": "fehlt", "sie_plural": "fehlen" },
+      "past": { "ich": "fehlte", "du": "fehltest", "er": "fehlte", "sie": "fehlte", "es": "fehlte", "wir": "fehlten", "ihr": "fehltet", "sie_plural": "fehlten" },
+      "perfect": { "ich": "habe gefehlt", "du": "hast gefehlt", "er": "hat gefehlt", "sie": "hat gefehlt", "es": "hat gefehlt", "wir": "haben gefehlt", "ihr": "habt gefehlt", "sie_plural": "haben gefehlt" }
+    },
+    "alternatives": [ "fehle", "fehlst", "fehlt", "fehlte", "gefehlt" ]
+  },
+  "feiern": {
+    "type": "verb",
+    "infinitive": "feiern",
+    "meaning": "to celebrate",
+    "conjugations": {
+      "present": { "ich": "feiere", "du": "feierst", "er": "feiert", "sie": "feiert", "es": "feiert", "wir": "feiern", "ihr": "feiert", "sie_plural": "feiern" },
+      "past": { "ich": "feierte", "du": "feiertest", "er": "feierte", "sie": "feierte", "es": "feierte", "wir": "feierten", "ihr": "feiertet", "sie_plural": "feierten" },
+      "perfect": { "ich": "habe gefeiert", "du": "hast gefeiert", "er": "hat gefeiert", "sie": "hat gefeiert", "es": "hat gefeiert", "wir": "haben gefeiert", "ihr": "habt gefeiert", "sie_plural": "haben gefeiert" }
+    },
+    "alternatives": [ "feiere", "feierst", "feiert", "feierte", "gefeiert" ]
+  },
+  "fotografieren": {
+    "type": "verb",
+    "infinitive": "fotografieren",
+    "meaning": "to photograph",
+    "conjugations": {
+      "present": { "ich": "fotografiere", "du": "fotografierst", "er": "fotografiert", "sie": "fotografiert", "es": "fotografiert", "wir": "fotografieren", "ihr": "fotografiert", "sie_plural": "fotografieren" },
+      "past": { "ich": "fotografierte", "du": "fotografiertest", "er": "fotografierte", "sie": "fotografierte", "es": "fotografierte", "wir": "fotografierten", "ihr": "fotografiertet", "sie_plural": "fotografierten" },
+      "perfect": { "ich": "habe fotografiert", "du": "hast fotografiert", "er": "hat fotografiert", "sie": "hat fotografiert", "es": "hat fotografiert", "wir": "haben fotografiert", "ihr": "habt fotografiert", "sie_plural": "haben fotografiert" }
+    },
+    "alternatives": [ "fotografiere", "fotografierst", "fotografiert", "fotografierte" ]
+  },
+  "frühstücken": {
+    "type": "verb",
+    "infinitive": "frühstücken",
+    "meaning": "to have breakfast",
+    "conjugations": {
+      "present": { "ich": "frühstücke", "du": "frühstückst", "er": "frühstückt", "sie": "frühstückt", "es": "frühstückt", "wir": "frühstücken", "ihr": "frühstückt", "sie_plural": "frühstücken" },
+      "past": { "ich": "frühstückte", "du": "frühstücktest", "er": "frühstückte", "sie": "frühstückte", "es": "frühstückte", "wir": "frühstückten", "ihr": "frühstücktet", "sie_plural": "frühstückten" },
+      "perfect": { "ich": "habe gefrühstückt", "du": "hast gefrühstückt", "er": "hat gefrühstückt", "sie": "hat gefrühstückt", "es": "hat gefrühstückt", "wir": "haben gefrühstückt", "ihr": "habt gefrühstückt", "sie_plural": "haben gefrühstückt" }
+    },
+    "alternatives": [ "frühstücke", "frühstückst", "frühstückt", "frühstückte", "gefrühstückt" ]
+  },
+  "gefallen": {
+    "type": "verb",
+    "infinitive": "gefallen",
+    "meaning": "to be pleasing to",
+    "conjugations": {
+      "present": { "ich": "gefalle", "du": "gefällst", "er": "gefällt", "sie": "gefällt", "es": "gefällt", "wir": "gefallen", "ihr": "gefallt", "sie_plural": "gefallen" },
+      "past": { "ich": "gefiel", "du": "gefielst", "er": "gefiel", "sie": "gefiel", "es": "gefiel", "wir": "gefielen", "ihr": "gefielt", "sie_plural": "gefielen" },
+      "perfect": { "ich": "habe gefallen", "du": "hast gefallen", "er": "hat gefallen", "sie": "hat gefallen", "es": "hat gefallen", "wir": "haben gefallen", "ihr": "habt gefallen", "sie_plural": "haben gefallen" }
+    },
+    "alternatives": [ "gefalle", "gefällst", "gefällt", "gefallt", "gefiel" ]
+  },
+  "gehören": {
+    "type": "verb",
+    "infinitive": "gehören",
+    "meaning": "to belong to",
+    "conjugations": {
+      "present": { "ich": "gehöre", "du": "gehörst", "er": "gehört", "sie": "gehört", "es": "gehört", "wir": "gehören", "ihr": "gehört", "sie_plural": "gehören" },
+      "past": { "ich": "gehörte", "du": "gehörtest", "er": "gehörte", "sie": "gehörte", "es": "gehörte", "wir": "gehörten", "ihr": "gehörtet", "sie_plural": "gehörten" },
+      "perfect": { "ich": "habe gehört", "du": "hast gehört", "er": "hat gehört", "sie": "hat gehört", "es": "hat gehört", "wir": "haben gehört", "ihr": "habt gehört", "sie_plural": "haben gehört" }
+    },
+    "alternatives": [ "gehöre", "gehörst", "gehört", "gehörte" ]
+  },
+  "glauben": {
+    "type": "verb",
+    "infinitive": "glauben",
+    "meaning": "to believe",
+    "conjugations": {
+      "present": { "ich": "glaube", "du": "glaubst", "er": "glaubt", "sie": "glaubt", "es": "glaubt", "wir": "glauben", "ihr": "glaubt", "sie_plural": "glauben" },
+      "past": { "ich": "glaubte", "du": "glaubtest", "er": "glaubte", "sie": "glaubte", "es": "glaubte", "wir": "glaubten", "ihr": "glaubtet", "sie_plural": "glaubten" },
+      "perfect": { "ich": "habe geglaubt", "du": "hast geglaubt", "er": "hat geglaubt", "sie": "hat geglaubt", "es": "hat geglaubt", "wir": "haben geglaubt", "ihr": "habt geglaubt", "sie_plural": "haben geglaubt" }
+    },
+    "alternatives": [ "glaube", "glaubst", "glaubt", "glaubte", "geglaubt" ]
+  },
+  "gratulieren": {
+    "type": "verb",
+    "infinitive": "gratulieren",
+    "meaning": "to congratulate",
+    "conjugations": {
+      "present": { "ich": "gratuliere", "du": "gratulierst", "er": "gratuliert", "sie": "gratuliert", "es": "gratuliert", "wir": "gratulieren", "ihr": "gratuliert", "sie_plural": "gratulieren" },
+      "past": { "ich": "gratulierte", "du": "gratuliertest", "er": "gratulierte", "sie": "gratulierte", "es": "gratulierte", "wir": "gratulierten", "ihr": "gratuliertet", "sie_plural": "gratulierten" },
+      "perfect": { "ich": "habe gratuliert", "du": "hast gratuliert", "er": "hat gratuliert", "sie": "hat gratuliert", "es": "hat gratuliert", "wir": "haben gratuliert", "ihr": "habt gratuliert", "sie_plural": "haben gratuliert" }
+    },
+    "alternatives": [ "gratuliere", "gratulierst", "gratuliert", "gratulierte" ]
+  },
+  "hoffen": {
+    "type": "verb",
+    "infinitive": "hoffen",
+    "meaning": "to hope",
+    "conjugations": {
+      "present": { "ich": "hoffe", "du": "hoffst", "er": "hofft", "sie": "hofft", "es": "hofft", "wir": "hoffen", "ihr": "hofft", "sie_plural": "hoffen" },
+      "past": { "ich": "hoffte", "du": "hofftest", "er": "hoffte", "sie": "hoffte", "es": "hoffte", "wir": "hofften", "ihr": "hofftet", "sie_plural": "hofften" },
+      "perfect": { "ich": "habe gehofft", "du": "hast gehofft", "er": "hat gehofft", "sie": "hat gehofft", "es": "hat gehofft", "wir": "haben gehofft", "ihr": "habt gehofft", "sie_plural": "haben gehofft" }
+    },
+    "alternatives": [ "hoffe", "hoffst", "hofft", "hoffte", "gehofft" ]
+  },
+  "holen": {
+    "type": "verb",
+    "infinitive": "holen",
+    "meaning": "to get, fetch",
+    "conjugations": {
+      "present": { "ich": "hole", "du": "holst", "er": "holt", "sie": "holt", "es": "holt", "wir": "holen", "ihr": "holt", "sie_plural": "holen" },
+      "past": { "ich": "holte", "du": "holtest", "er": "holte", "sie": "holte", "es": "holte", "wir": "holten", "ihr": "holtet", "sie_plural": "holten" },
+      "perfect": { "ich": "habe geholt", "du": "hast geholt", "er": "hat geholt", "sie": "hat geholt", "es": "hat geholt", "wir": "haben geholt", "ihr": "habt geholt", "sie_plural": "haben geholt" }
+    },
+    "alternatives": [ "hole", "holst", "holt", "holte", "geholt" ]
+  },
+  "kennenlernen": {
+    "type": "verb",
+    "infinitive": "kennenlernen",
+    "meaning": "to get to know",
+    "conjugations": {
+      "present": { "ich": "lerne kennen", "du": "lernst kennen", "er": "lernt kennen", "sie": "lernt kennen", "es": "lernt kennen", "wir": "lernen kennen", "ihr": "lernt kennen", "sie_plural": "lernen kennen" },
+      "past": { "ich": "lernte kennen", "du": "lerntest kennen", "er": "lernte kennen", "sie": "lernte kennen", "es": "lernte kennen", "wir": "lernten kennen", "ihr": "lerntet kennen", "sie_plural": "lernten kennen" },
+      "perfect": { "ich": "habe kennengelernt", "du": "hast kennengelernt", "er": "hat kennengelernt", "sie": "hat kennengelernt", "es": "hat kennengelernt", "wir": "haben kennengelernt", "ihr": "habt kennengelernt", "sie_plural": "haben kennengelernt" }
+    },
+    "alternatives": [ "lerne kennen", "lernst kennen", "lernt kennen", "lernte kennen", "kennengelernt" ]
+  },
+  "laufen": {
+    "type": "verb",
+    "infinitive": "laufen",
+    "meaning": "to run, walk",
+    "conjugations": {
+      "present": { "ich": "laufe", "du": "läufst", "er": "läuft", "sie": "läuft", "es": "läuft", "wir": "laufen", "ihr": "lauft", "sie_plural": "laufen" },
+      "past": { "ich": "lief", "du": "liefst", "er": "lief", "sie": "lief", "es": "lief", "wir": "liefen", "ihr": "lieft", "sie_plural": "liefen" },
+      "perfect": { "ich": "bin gelaufen", "du": "bist gelaufen", "er": "ist gelaufen", "sie": "ist gelaufen", "es": "ist gelaufen", "wir": "sind gelaufen", "ihr": "seid gelaufen", "sie_plural": "sind gelaufen" }
+    },
+    "alternatives": [ "laufe", "läufst", "läuft", "lauft", "lief", "gelaufen" ]
+  },
+  "legen": {
+    "type": "verb",
+    "infinitive": "legen",
+    "meaning": "to lay, put",
+    "conjugations": {
+      "present": { "ich": "lege", "du": "legst", "er": "legt", "sie": "legt", "es": "legt", "wir": "legen", "ihr": "legt", "sie_plural": "legen" },
+      "past": { "ich": "legte", "du": "legtest", "er": "legte", "sie": "legte", "es": "legte", "wir": "legten", "ihr": "legtet", "sie_plural": "legten" },
+      "perfect": { "ich": "habe gelegt", "du": "hast gelegt", "er": "hat gelegt", "sie": "hat gelegt", "es": "hat gelegt", "wir": "haben gelegt", "ihr": "habt gelegt", "sie_plural": "haben gelegt" }
+    },
+    "alternatives": [ "lege", "legst", "legt", "legte", "gelegt" ]
+  },
+  "leihen": {
+    "type": "verb",
+    "infinitive": "leihen",
+    "meaning": "to lend, borrow",
+    "conjugations": {
+      "present": { "ich": "leihe", "du": "leihst", "er": "leiht", "sie": "leiht", "es": "leiht", "wir": "leihen", "ihr": "leiht", "sie_plural": "leihen" },
+      "past": { "ich": "lieh", "du": "liehst", "er": "lieh", "sie": "lieh", "es": "lieh", "wir": "liehen", "ihr": "lieht", "sie_plural": "liehen" },
+      "perfect": { "ich": "habe geliehen", "du": "hast geliehen", "er": "hat geliehen", "sie": "hat geliehen", "es": "hat geliehen", "wir": "haben geliehen", "ihr": "habt geliehen", "sie_plural": "haben geliehen" }
+    },
+    "alternatives": [ "leihe", "leihst", "leiht", "lieh", "geliehen" ]
+  },
+  "passieren": {
+    "type": "verb",
+    "infinitive": "passieren",
+    "meaning": "to happen",
+    "conjugations": {
+      "present": { "ich": "passiere", "du": "passierst", "er": "passiert", "sie": "passiert", "es": "passiert", "wir": "passieren", "ihr": "passiert", "sie_plural": "passieren" },
+      "past": { "ich": "passierte", "du": "passiertest", "er": "passierte", "sie": "passierte", "es": "passierte", "wir": "passierten", "ihr": "passiertet", "sie_plural": "passierten" },
+      "perfect": { "ich": "bin passiert", "du": "bist passiert", "er": "ist passiert", "sie": "ist passiert", "es": "ist passiert", "wir": "sind passiert", "ihr": "seid passiert", "sie_plural": "sind passiert" }
+    },
+    "alternatives": [ "passiere", "passierst", "passiert", "passierte" ]
+  },
+  "putzen": {
+    "type": "verb",
+    "infinitive": "putzen",
+    "meaning": "to clean",
+    "conjugations": {
+      "present": { "ich": "putze", "du": "putzt", "er": "putzt", "sie": "putzt", "es": "putzt", "wir": "putzen", "ihr": "putzt", "sie_plural": "putzen" },
+      "past": { "ich": "putzte", "du": "putztest", "er": "putzte", "sie": "putzte", "es": "putzte", "wir": "putzten", "ihr": "putztet", "sie_plural": "putzten" },
+      "perfect": { "ich": "habe geputzt", "du": "hast geputzt", "er": "hat geputzt", "sie": "hat geputzt", "es": "hat geputzt", "wir": "haben geputzt", "ihr": "habt geputzt", "sie_plural": "haben geputzt" }
+    },
+    "alternatives": [ "putze", "putzt", "putzte", "geputzt" ]
+  },
+  "regnen": {
+    "type": "verb",
+    "infinitive": "regnen",
+    "meaning": "to rain",
+    "conjugations": {
+      "present": { "ich": "regne", "du": "regnest", "er": "regnet", "sie": "regnet", "es": "regnet", "wir": "regnen", "ihr": "regnet", "sie_plural": "regnen" },
+      "past": { "ich": "regnete", "du": "regnetest", "er": "regnete", "sie": "regnete", "es": "regnete", "wir": "regneten", "ihr": "regnetet", "sie_plural": "regneten" },
+      "perfect": { "ich": "habe geregnet", "du": "hast geregnet", "er": "hat geregnet", "sie": "hat geregnet", "es": "hat geregnet", "wir": "haben geregnet", "ihr": "habt geregnet", "sie_plural": "haben geregnet" }
+    },
+    "alternatives": [ "regne", "regnest", "regnet", "regnete", "geregnet" ]
+  },
+  "schenken": {
+    "type": "verb",
+    "infinitive": "schenken",
+    "meaning": "to give (as a gift)",
+    "conjugations": {
+      "present": { "ich": "schenke", "du": "schenkst", "er": "schenkt", "sie": "schenkt", "es": "schenkt", "wir": "schenken", "ihr": "schenkt", "sie_plural": "schenken" },
+      "past": { "ich": "schenkte", "du": "schenktest", "er": "schenkte", "sie": "schenkte", "es": "schenkte", "wir": "schenkten", "ihr": "schenktet", "sie_plural": "schenkten" },
+      "perfect": { "ich": "habe geschenkt", "du": "hast geschenkt", "er": "hat geschenkt", "sie": "hat geschenkt", "es": "hat geschenkt", "wir": "haben geschenkt", "ihr": "habt geschenkt", "sie_plural": "haben geschenkt" }
+    },
+    "alternatives": [ "schenke", "schenkst", "schenkt", "schenkte", "geschenkt" ]
+  },
+  "schneien": {
+    "type": "verb",
+    "infinitive": "schneien",
+    "meaning": "to snow",
+    "conjugations": {
+      "present": { "ich": "schneie", "du": "schneist", "er": "schneit", "sie": "schneit", "es": "schneit", "wir": "schneien", "ihr": "schneit", "sie_plural": "schneien" },
+      "past": { "ich": "schneite", "du": "schneitest", "er": "schneite", "sie": "schneite", "es": "schneite", "wir": "schneiten", "ihr": "schneitet", "sie_plural": "schneiten" },
+      "perfect": { "ich": "habe geschneit", "du": "hast geschneit", "er": "hat geschneit", "sie": "hat geschneit", "es": "hat geschneit", "wir": "haben geschneit", "ihr": "habt geschneit", "sie_plural": "haben geschneit" }
+    },
+    "alternatives": [ "schneie", "schneist", "schneit", "schneite", "geschneit" ]
+  },
+  "spazieren": {
+    "type": "verb",
+    "infinitive": "spazieren",
+    "meaning": "to go for a walk",
+    "conjugations": {
+      "present": { "ich": "spaziere", "du": "spazierst", "er": "spaziert", "sie": "spaziert", "es": "spaziert", "wir": "spazieren", "ihr": "spaziert", "sie_plural": "spazieren" },
+      "past": { "ich": "spazierte", "du": "spaziertest", "er": "spazierte", "sie": "spazierte", "es": "spazierte", "wir": "spazierten", "ihr": "spaziertet", "sie_plural": "spazierten" },
+      "perfect": { "ich": "bin spaziert", "du": "bist spaziert", "er": "ist spaziert", "sie": "ist spaziert", "es": "ist spaziert", "wir": "sind spaziert", "ihr": "seid spaziert", "sie_plural": "sind spaziert" }
+    },
+    "alternatives": [ "spaziere", "spazierst", "spaziert", "spazierte" ]
+  },
+  "stimmen": {
+    "type": "verb",
+    "infinitive": "stimmen",
+    "meaning": "to be correct, to vote",
+    "conjugations": {
+      "present": { "ich": "stimme", "du": "stimmst", "er": "stimmt", "sie": "stimmt", "es": "stimmt", "wir": "stimmen", "ihr": "stimmt", "sie_plural": "stimmen" },
+      "past": { "ich": "stimmte", "du": "stimmtest", "er": "stimmte", "sie": "stimmte", "es": "stimmte", "wir": "stimmten", "ihr": "stimmtet", "sie_plural": "stimmten" },
+      "perfect": { "ich": "habe gestimmt", "du": "hast gestimmt", "er": "hat gestimmt", "sie": "hat gestimmt", "es": "hat gestimmt", "wir": "haben gestimmt", "ihr": "habt gestimmt", "sie_plural": "haben gestimmt" }
+    },
+    "alternatives": [ "stimme", "stimmst", "stimmt", "stimmte", "gestimmt" ]
+  },
+  "telefonieren": {
+    "type": "verb",
+    "infinitive": "telefonieren",
+    "meaning": "to talk on the phone",
+    "conjugations": {
+      "present": { "ich": "telefoniere", "du": "telefonierst", "er": "telefoniert", "sie": "telefoniert", "es": "telefoniert", "wir": "telefonieren", "ihr": "telefoniert", "sie_plural": "telefonieren" },
+      "past": { "ich": "telefonierte", "du": "telefoniertest", "er": "telefonierte", "sie": "telefonierte", "es": "telefonierte", "wir": "telefonierten", "ihr": "telefoniertet", "sie_plural": "telefonierten" },
+      "perfect": { "ich": "habe telefoniert", "du": "hast telefoniert", "er": "hat telefoniert", "sie": "hat telefoniert", "es": "hat telefoniert", "wir": "haben telefoniert", "ihr": "habt telefoniert", "sie_plural": "haben telefoniert" }
+    },
+    "alternatives": [ "telefoniere", "telefonierst", "telefoniert", "telefonierte" ]
+  },
+  "verdienen": {
+    "type": "verb",
+    "infinitive": "verdienen",
+    "meaning": "to earn, deserve",
+    "conjugations": {
+      "present": { "ich": "verdiene", "du": "verdienst", "er": "verdient", "sie": "verdient", "es": "verdient", "wir": "verdienen", "ihr": "verdient", "sie_plural": "verdienen" },
+      "past": { "ich": "verdiente", "du": "verdientest", "er": "verdiente", "sie": "verdiente", "es": "verdiente", "wir": "verdienten", "ihr": "verdientet", "sie_plural": "verdienten" },
+      "perfect": { "ich": "habe verdient", "du": "hast verdient", "er": "hat verdient", "sie": "hat verdient", "es": "hat verdient", "wir": "haben verdient", "ihr": "habt verdient", "sie_plural": "haben verdient" }
+    },
+    "alternatives": [ "verdiene", "verdienst", "verdient", "verdiente" ]
+  },
+  "verkaufen": {
+    "type": "verb",
+    "infinitive": "verkaufen",
+    "meaning": "to sell",
+    "conjugations": {
+      "present": { "ich": "verkaufe", "du": "verkaufst", "er": "verkauft", "sie": "verkauft", "es": "verkauft", "wir": "verkaufen", "ihr": "verkauft", "sie_plural": "verkaufen" },
+      "past": { "ich": "verkaufte", "du": "verkauftest", "er": "verkaufte", "sie": "verkaufte", "es": "verkaufte", "wir": "verkauften", "ihr": "verkauftet", "sie_plural": "verkauften" },
+      "perfect": { "ich": "habe verkauft", "du": "hast verkauft", "er": "hat verkauft", "sie": "hat verkauft", "es": "hat verkauft", "wir": "haben verkauft", "ihr": "habt verkauft", "sie_plural": "haben verkauft" }
+    },
+    "alternatives": [ "verkaufe", "verkaufst", "verkauft", "verkaufte" ]
+  },
+  "wählen": {
+    "type": "verb",
+    "infinitive": "wählen",
+    "meaning": "to choose, vote",
+    "conjugations": {
+      "present": { "ich": "wähle", "du": "wählst", "er": "wählt", "sie": "wählt", "es": "wählt", "wir": "wählen", "ihr": "wählt", "sie_plural": "wählen" },
+      "past": { "ich": "wählte", "du": "wähltest", "er": "wählte", "sie": "wählte", "es": "wählte", "wir": "wählten", "ihr": "wähltet", "sie_plural": "wählten" },
+      "perfect": { "ich": "habe gewählt", "du": "hast gewählt", "er": "hat gewählt", "sie": "hat gewählt", "es": "hat gewählt", "wir": "haben gewählt", "ihr": "habt gewählt", "sie_plural": "haben gewählt" }
+    },
+    "alternatives": [ "wähle", "wählst", "wählt", "wählte", "gewählt" ]
+  },
+  "wandern": {
+    "type": "verb",
+    "infinitive": "wandern",
+    "meaning": "to hike",
+    "conjugations": {
+      "present": { "ich": "wandere", "du": "wanderst", "er": "wandert", "sie": "wandert", "es": "wandert", "wir": "wandern", "ihr": "wandert", "sie_plural": "wandern" },
+      "past": { "ich": "wanderte", "du": "wandertest", "er": "wanderte", "sie": "wanderte", "es": "wanderte", "wir": "wanderten", "ihr": "wandertet", "sie_plural": "wanderten" },
+      "perfect": { "ich": "bin gewandert", "du": "bist gewandert", "er": "ist gewandert", "sie": "ist gewandert", "es": "ist gewandert", "wir": "sind gewandert", "ihr": "seid gewandert", "sie_plural": "sind gewandert" }
+    },
+    "alternatives": [ "wandere", "wanderst", "wandert", "wanderte", "gewandert" ]
+  },
+  "wünschen": {
+    "type": "verb",
+    "infinitive": "wünschen",
+    "meaning": "to wish",
+    "conjugations": {
+      "present": { "ich": "wünsche", "du": "wünschst", "er": "wünscht", "sie": "wünscht", "es": "wünscht", "wir": "wünschen", "ihr": "wünscht", "sie_plural": "wünschen" },
+      "past": { "ich": "wünschte", "du": "wünschtest", "er": "wünschte", "sie": "wünschte", "es": "wünschte", "wir": "wünschten", "ihr": "wünschtet", "sie_plural": "wünschten" },
+      "perfect": { "ich": "habe gewünscht", "du": "hast gewünscht", "er": "hat gewünscht", "sie": "hat gewünscht", "es": "hat gewünscht", "wir": "haben gewünscht", "ihr": "habt gewünscht", "sie_plural": "haben gewünscht" }
+    },
+    "alternatives": [ "wünsche", "wünschst", "wünscht", "wünschte", "gewünscht" ]
+  },
+  "zahlen": {
+    "type": "verb",
+    "infinitive": "zahlen",
+    "meaning": "to pay",
+    "conjugations": {
+      "present": { "ich": "zahle", "du": "zahlst", "er": "zahlt", "sie": "zahlt", "es": "zahlt", "wir": "zahlen", "ihr": "zahlt", "sie_plural": "zahlen" },
+      "past": { "ich": "zahlte", "du": "zahltest", "er": "zahlte", "sie": "zahlte", "es": "zahlte", "wir": "zahlten", "ihr": "zahltet", "sie_plural": "zahlten" },
+      "perfect": { "ich": "habe gezahlt", "du": "hast gezahlt", "er": "hat gezahlt", "sie": "hat gezahlt", "es": "hat gezahlt", "wir": "haben gezahlt", "ihr": "habt gezahlt", "sie_plural": "haben gezahlt" }
+    },
+    "alternatives": [ "zahle", "zahlst", "zahlt", "zahlte", "gezahlt" ]
+  },
+  "zeichnen": {
+    "type": "verb",
+    "infinitive": "zeichnen",
+    "meaning": "to draw",
+    "conjugations": {
+      "present": { "ich": "zeichne", "du": "zeichnest", "er": "zeichnet", "sie": "zeichnet", "es": "zeichnet", "wir": "zeichnen", "ihr": "zeichnet", "sie_plural": "zeichnen" },
+      "past": { "ich": "zeichnete", "du": "zeichnetest", "er": "zeichnete", "sie": "zeichnete", "es": "zeichnete", "wir": "zeichneten", "ihr": "zeichnetet", "sie_plural": "zeichneten" },
+      "perfect": { "ich": "habe gezeichnet", "du": "hast gezeichnet", "er": "hat gezeichnet", "sie": "hat gezeichnet", "es": "hat gezeichnet", "wir": "haben gezeichnet", "ihr": "habt gezeichnet", "sie_plural": "haben gezeichnet" }
+    },
+    "alternatives": [ "zeichne", "zeichnest", "zeichnet", "zeichnete", "gezeichnet" ]
+  },
+  "zuhören": {
+    "type": "verb",
+    "infinitive": "zuhören",
+    "meaning": "to listen to",
+    "conjugations": {
+      "present": { "ich": "höre zu", "du": "hörst zu", "er": "hört zu", "sie": "hört zu", "es": "hört zu", "wir": "hören zu", "ihr": "hört zu", "sie_plural": "hören zu" },
+      "past": { "ich": "hörte zu", "du": "hörtest zu", "er": "hörte zu", "sie": "hörte zu", "es": "hörte zu", "wir": "hörten zu", "ihr": "hörtet zu", "sie_plural": "hörten zu" },
+      "perfect": { "ich": "habe zugehört", "du": "hast zugehört", "er": "hat zugehört", "sie": "hat zugehört", "es": "hat zugehört", "wir": "haben zugehört", "ihr": "habt zugehört", "sie_plural": "haben zugehört" }
+    },
+    "alternatives": [ "höre zu", "hörst zu", "hört zu", "hörte zu", "zugehört" ]
+  },
+  "allein": {
+    "type": "adjective",
+    "meaning": "alone",
+    "alternatives": [ "allein", "alleine" ]
+  },
+  "berühmt": {
+    "type": "adjective",
+    "meaning": "famous",
+    "alternatives": [ "berühmt", "berühmte", "berühmter", "berühmtes" ]
+  },
+  "böse": {
+    "type": "adjective",
+    "meaning": "evil, angry",
+    "alternatives": [ "böse", "böser", "böses" ]
+  },
+  "doppelt": {
+    "type": "adjective",
+    "meaning": "double",
+    "alternatives": [ "doppelt", "doppelte", "doppelter", "doppeltes" ]
+  },
+  "dringend": {
+    "type": "adjective",
+    "meaning": "urgent",
+    "alternatives": [ "dringend", "dringende", "dringender", "dringendes" ]
+  },
+  "eng": {
+    "type": "adjective",
+    "meaning": "narrow, tight",
+    "alternatives": [ "eng", "enge", "enger", "enges" ]
+  },
+  "erwachsen": {
+    "type": "adjective",
+    "meaning": "adult, grown-up",
+    "alternatives": [ "erwachsen", "erwachsene", "erwachsener", "erwachsenes" ]
+  },
+  "fantastisch": {
+    "type": "adjective",
+    "meaning": "fantastic",
+    "alternatives": [ "fantastisch", "fantastische", "fantastischer", "fantastisches" ]
+  },
+  "fein": {
+    "type": "adjective",
+    "meaning": "fine, delicate",
+    "alternatives": [ "fein", "feine", "feiner", "feines" ]
+  },
+  "fett": {
+    "type": "adjective",
+    "meaning": "fat, greasy",
+    "alternatives": [ "fett", "fette", "fetter", "fettes" ]
+  },
+  "feucht": {
+    "type": "adjective",
+    "meaning": "damp, moist",
+    "alternatives": [ "feucht", "feuchte", "feuchter", "feuchtes" ]
+  },
+  "flach": {
+    "type": "adjective",
+    "meaning": "flat, shallow",
+    "alternatives": [ "flach", "flache", "flacher", "flaches" ]
+  },
+  "fremd": {
+    "type": "adjective",
+    "meaning": "foreign, strange",
+    "alternatives": [ "fremd", "fremde", "fremder", "fremdes" ]
+  },
+  "froh": {
+    "type": "adjective",
+    "meaning": "glad, happy",
+    "alternatives": [ "froh", "frohe", "froher", "frohes" ]
+  },
+  "gefährlich": {
+    "type": "adjective",
+    "meaning": "dangerous",
+    "alternatives": [ "gefährlich", "gefährliche", "gefährlicher", "gefährliches" ]
+  },
+  "gemütlich": {
+    "type": "adjective",
+    "meaning": "cozy, comfortable",
+    "alternatives": [ "gemütlich", "gemütliche", "gemütlicher", "gemütliches" ]
+  },
+  "genau": {
+    "type": "adjective",
+    "meaning": "exact, precise",
+    "alternatives": [ "genau", "genaue", "genauer", "genaues" ]
+  },
+  "gerade": {
+    "type": "adjective",
+    "meaning": "straight",
+    "alternatives": [ "gerade", "gerader", "gerades" ]
+  },
+  "gespannt": {
+    "type": "adjective",
+    "meaning": "excited, curious",
+    "alternatives": [ "gespannt", "gespannte", "gespannter", "gespanntes" ]
+  },
+  "glatt": {
+    "type": "adjective",
+    "meaning": "smooth, slippery",
+    "alternatives": [ "glatt", "glatte", "glatter", "glattes" ]
+  },
+  "hässlich": {
+    "type": "adjective",
+    "meaning": "ugly",
+    "alternatives": [ "hässlich", "hässliche", "hässlicher", "hässliches" ]
+  },
+  "heilig": {
+    "type": "adjective",
+    "meaning": "holy, sacred",
+    "alternatives": [ "heilig", "heilige", "heiliger", "heiliges" ]
+  },
+  "herzlich": {
+    "type": "adjective",
+    "meaning": "heartfelt, cordial",
+    "alternatives": [ "herzlich", "herzliche", "herzlicher", "herzliches" ]
+  },
+  "hervorragend": {
+    "type": "adjective",
+    "meaning": "excellent, outstanding",
+    "alternatives": [ "hervorragend", "hervorragende", "hervorragender", "hervorragendes" ]
+  },
+  "historisch": {
+    "type": "adjective",
+    "meaning": "historical",
+    "alternatives": [ "historisch", "historische", "historischer", "historisches" ]
+  },
+  "ideal": {
+    "type": "adjective",
+    "meaning": "ideal",
+    "alternatives": [ "ideal", "ideale", "idealer", "ideales" ]
+  },
+  "jährlich": {
+    "type": "adjective",
+    "meaning": "yearly, annual",
+    "alternatives": [ "jährlich", "jährliche", "jährlicher", "jährliches" ]
+  },
+  "kaputt": {
+    "type": "adjective",
+    "meaning": "broken",
+    "alternatives": [ "kaputt", "kaputte", "kaputter", "kaputtes" ]
+  },
+  "klar": {
+    "type": "adjective",
+    "meaning": "clear",
+    "alternatives": [ "klar", "klare", "klarer", "klares" ]
+  },
+  "klassisch": {
+    "type": "adjective",
+    "meaning": "classic, classical",
+    "alternatives": [ "klassisch", "klassische", "klassischer", "klassisches" ]
+  },
+  "komisch": {
+    "type": "adjective",
+    "meaning": "funny, strange",
+    "alternatives": [ "komisch", "komische", "komischer", "komisches" ]
+  },
+  "kulturell": {
+    "type": "adjective",
+    "meaning": "cultural",
+    "alternatives": [ "kulturell", "kulturelle", "kultureller", "kulturelles" ]
+  },
+  "kurz": {
+    "type": "adjective",
+    "meaning": "short",
+    "alternatives": [ "kurz", "kurze", "kurzer", "kurzes", "kürzer" ]
+  },
+  "lang": {
+    "type": "adjective",
+    "meaning": "long",
+    "alternatives": [ "lang", "lange", "langer", "langes", "länger" ]
+  },
+  "lebendig": {
+    "type": "adjective",
+    "meaning": "alive, lively",
+    "alternatives": [ "lebendig", "lebendige", "lebendiger", "lebendiges" ]
+  },
+  "ledig": {
+    "type": "adjective",
+    "meaning": "single, unmarried",
+    "alternatives": [ "ledig", "ledige", "lediger", "lediges" ]
+  },
+  "locker": {
+    "type": "adjective",
+    "meaning": "loose, relaxed",
+    "alternatives": [ "locker", "lockere", "lockerer", "lockeres" ]
+  },
+  "menschlich": {
+    "type": "adjective",
+    "meaning": "human",
+    "alternatives": [ "menschlich", "menschliche", "menschlicher", "menschliches" ]
+  },
+  "mindestens": {
+    "type": "adjective",
+    "meaning": "at least",
+    "alternatives": [ "mindestens" ]
+  },
+  "mittel": {
+    "type": "adjective",
+    "meaning": "medium, middle",
+    "alternatives": [ "mittel", "mittlere", "mittlerer", "mittleres" ]
+  },
+  "mobil": {
+    "type": "adjective",
+    "meaning": "mobile",
+    "alternatives": [ "mobil", "mobile", "mobiler", "mobiles" ]
+  },
+  "mutig": {
+    "type": "adjective",
+    "meaning": "brave",
+    "alternatives": [ "mutig", "mutige", "mutiger", "mutiges" ]
+  },
+  "nackt": {
+    "type": "adjective",
+    "meaning": "naked",
+    "alternatives": [ "nackt", "nackte", "nackter", "nacktes" ]
+  },
+  "natürlich": {
+    "type": "adjective",
+    "meaning": "natural, of course",
+    "alternatives": [ "natürlich", "natürliche", "natürlicher", "natürliches" ]
+  },
+  "negativ": {
+    "type": "adjective",
+    "meaning": "negative",
+    "alternatives": [ "negativ", "negative", "negativer", "negatives" ]
+  },
+  "nervös": {
+    "type": "adjective",
+    "meaning": "nervous",
+    "alternatives": [ "nervös", "nervöse", "nervöser", "nervöses" ]
+  },
+  "niedrig": {
+    "type": "adjective",
+    "meaning": "low",
+    "alternatives": [ "niedrig", "niedrige", "niedriger", "niedriges" ]
+  },
+  "nötig": {
+    "type": "adjective",
+    "meaning": "necessary",
+    "alternatives": [ "nötig", "nötige", "nötiger", "nötiges" ]
+  },
+  "offiziell": {
+    "type": "adjective",
+    "meaning": "official",
+    "alternatives": [ "offiziell", "offizielle", "offizieller", "offizielles" ]
+  },
+  "optimistisch": {
+    "type": "adjective",
+    "meaning": "optimistic",
+    "alternatives": [ "optimistisch", "optimistische", "optimistischer", "optimistisches" ]
+  },
+  "ordentlich": {
+    "type": "adjective",
+    "meaning": "tidy, neat",
+    "alternatives": [ "ordentlich", "ordentliche", "ordentlicher", "ordentliches" ]
+  },
+  "original": {
+    "type": "adjective",
+    "meaning": "original",
+    "alternatives": [ "original", "originale", "originaler", "originales" ]
+  },
+  "peinlich": {
+    "type": "adjective",
+    "meaning": "embarrassing",
+    "alternatives": [ "peinlich", "peinliche", "peinlicher", "peinliches" ]
+  },
+  "perfekt": {
+    "type": "adjective",
+    "meaning": "perfect",
+    "alternatives": [ "perfekt", "perfekte", "perfekter", "perfektes" ]
+  },
+  "plötzlich": {
+    "type": "adjective",
+    "meaning": "sudden",
+    "alternatives": [ "plötzlich", "plötzliche", "plötzlicher", "plötzliches" ]
+  },
+  "politisch": {
+    "type": "adjective",
+    "meaning": "political",
+    "alternatives": [ "politisch", "politische", "politischer", "politisches" ]
+  },
+  "positiv": {
+    "type": "adjective",
+    "meaning": "positive",
+    "alternatives": [ "positiv", "positive", "positiver", "positives" ]
+  },
+  "praktisch": {
+    "type": "adjective",
+    "meaning": "practical",
+    "alternatives": [ "praktisch", "praktische", "praktischer", "praktisches" ]
+  },
+  "preiswert": {
+    "type": "adjective",
+    "meaning": "inexpensive, good value",
+    "alternatives": [ "preiswert", "preiswerte", "preiswerter", "preiswertes" ]
+  },
+  "privat": {
+    "type": "adjective",
+    "meaning": "private",
+    "alternatives": [ "privat", "private", "privater", "privates" ]
+  },
+  "pünktlich": {
+    "type": "adjective",
+    "meaning": "punctual",
+    "alternatives": [ "pünktlich", "pünktliche", "pünktlicher", "pünktliches" ]
+  },
+  "realistisch": {
+    "type": "adjective",
+    "meaning": "realistic",
+    "alternatives": [ "realistisch", "realistische", "realistischer", "realistisches" ]
+  },
+  "reich": {
+    "type": "adjective",
+    "meaning": "rich, wealthy",
+    "alternatives": [ "reich", "reiche", "reicher", "reiches" ]
+  },
+  "romantisch": {
+    "type": "adjective",
+    "meaning": "romantic",
+    "alternatives": [ "romantisch", "romantische", "romantischer", "romantisches" ]
+  },
+  "ruhig": {
+    "type": "adjective",
+    "meaning": "quiet, calm",
+    "alternatives": [ "ruhig", "ruhige", "ruhiger", "ruhiges" ]
+  },
+  "rund": {
+    "type": "adjective",
+    "meaning": "round",
+    "alternatives": [ "rund", "runde", "runder", "rundes" ]
+  },
+  "satt": {
+    "type": "adjective",
+    "meaning": "full (from eating)",
+    "alternatives": [ "satt", "satte", "satter", "sattes" ]
+  },
+  "sauber": {
+    "type": "adjective",
+    "meaning": "clean",
+    "alternatives": [ "sauber", "saubere", "sauberer", "sauberes" ]
+  },
+  "sauer": {
+    "type": "adjective",
+    "meaning": "sour, angry",
+    "alternatives": [ "sauer", "saure", "saurer", "saures" ]
+  },
+  "scharf": {
+    "type": "adjective",
+    "meaning": "sharp, spicy",
+    "alternatives": [ "scharf", "scharfe", "scharfer", "scharfes" ]
+  },
+  "schick": {
+    "type": "adjective",
+    "meaning": "chic, elegant",
+    "alternatives": [ "schick", "schicke", "schicker", "schickes" ]
+  },
+  "schmal": {
+    "type": "adjective",
+    "meaning": "narrow",
+    "alternatives": [ "schmal", "schmale", "schmaler", "schmales" ]
+  },
+  "schriftlich": {
+    "type": "adjective",
+    "meaning": "in writing, written",
+    "alternatives": [ "schriftlich", "schriftliche", "schriftlicher", "schriftliches" ]
+  },
+  "schüchtern": {
+    "type": "adjective",
+    "meaning": "shy",
+    "alternatives": [ "schüchtern", "schüchterne", "schüchterner", "schüchternes" ]
+  },
+  "schwierig": {
+    "type": "adjective",
+    "meaning": "difficult",
+    "alternatives": [ "schwierig", "schwierige", "schwieriger", "schwieriges" ]
+  },
+  "selbstverständlich": {
+    "type": "adjective",
+    "meaning": "of course, self-evident",
+    "alternatives": [ "selbstverständlich", "selbstverständliche", "selbstverständlicher", "selbstverständliches" ]
+  },
+  "seltsam": {
+    "type": "adjective",
+    "meaning": "strange, odd",
+    "alternatives": [ "seltsam", "seltsame", "seltsamer", "seltsames" ]
+  },
+  "sicher": {
+    "type": "adjective",
+    "meaning": "sure, safe",
+    "alternatives": [ "sicher", "sichere", "sicherer", "sicheres" ]
+  },
+  "sportlich": {
+    "type": "adjective",
+    "meaning": "athletic, sporty",
+    "alternatives": [ "sportlich", "sportliche", "sportlicher", "sportliches" ]
+  },
+  "spannend": {
+    "type": "adjective",
+    "meaning": "exciting, thrilling",
+    "alternatives": [ "spannend", "spannende", "spannender", "spannendes" ]
+  },
+  "spitz": {
+    "type": "adjective",
+    "meaning": "pointed, sharp",
+    "alternatives": [ "spitz", "spitze", "spitzer", "spitzes" ]
+  },
+  "still": {
+    "type": "adjective",
+    "meaning": "still, quiet",
+    "alternatives": [ "still", "stille", "stiller", "stilles" ]
+  },
+  "sympathisch": {
+    "type": "adjective",
+    "meaning": "likeable, pleasant",
+    "alternatives": [ "sympathisch", "sympathische", "sympathischer", "sympathisches" ]
+  },
+  "täglich": {
+    "type": "adjective",
+    "meaning": "daily",
+    "alternatives": [ "täglich", "tägliche", "täglicher", "tägliches" ]
+  },
+  "tatsächlich": {
+    "type": "adjective",
+    "meaning": "actual, real",
+    "alternatives": [ "tatsächlich", "tatsächliche", "tatsächlicher", "tatsächliches" ]
+  },
+  "toll": {
+    "type": "adjective",
+    "meaning": "great, terrific",
+    "alternatives": [ "toll", "tolle", "toller", "tolles" ]
+  },
+  "typisch": {
+    "type": "adjective",
+    "meaning": "typical",
+    "alternatives": [ "typisch", "typische", "typischer", "typisches" ]
+  },
+  "unbedingt": {
+    "type": "adjective",
+    "meaning": "absolute, unconditional",
+    "alternatives": [ "unbedingt", "unbedingte", "unbedingter", "unbedingtes" ]
+  },
+  "unglaublich": {
+    "type": "adjective",
+    "meaning": "incredible",
+    "alternatives": [ "unglaublich", "unglaubliche", "unglaublicher", "unglaubliches" ]
+  },
+  "verheiratet": {
+    "type": "adjective",
+    "meaning": "married",
+    "alternatives": [ "verheiratet", "verheiratete", "verheirateter", "verheiratetes" ]
+  },
+  "verrückt": {
+    "type": "adjective",
+    "meaning": "crazy",
+    "alternatives": [ "verrückt", "verrückte", "verrückter", "verrücktes" ]
+  },
+  "verschieden": {
+    "type": "adjective",
+    "meaning": "different, various",
+    "alternatives": [ "verschieden", "verschiedene", "verschiedener", "verschiedenes" ]
+  },
+  "vorsichtig": {
+    "type": "adjective",
+    "meaning": "careful",
+    "alternatives": [ "vorsichtig", "vorsichtige", "vorsichtiger", "vorsichtiges" ]
+  },
+  "wahr": {
+    "type": "adjective",
+    "meaning": "true",
+    "alternatives": [ "wahr", "wahre", "wahrer", "wahres" ]
+  },
+  "wahrscheinlich": {
+    "type": "adjective",
+    "meaning": "probable, likely",
+    "alternatives": [ "wahrscheinlich", "wahrscheinliche", "wahrscheinlicher", "wahrscheinliches" ]
+  },
+  "weiblich": {
+    "type": "adjective",
+    "meaning": "female",
+    "alternatives": [ "weiblich", "weibliche", "weiblicher", "weibliches" ]
+  },
+  "wöchentlich": {
+    "type": "adjective",
+    "meaning": "weekly",
+    "alternatives": [ "wöchentlich", "wöchentliche", "wöchentlicher", "wöchentliches" ]
+  },
+  "wütend": {
+    "type": "adjective",
+    "meaning": "furious, angry",
+    "alternatives": [ "wütend", "wütende", "wütender", "wütendes" ]
+  },
+  "zusammen": {
+    "type": "adjective",
+    "meaning": "together",
+    "alternatives": [ "zusammen" ]
+  },
+  "der_Bäcker": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the baker",
+    "cases": {
+      "nominativ": { "singular": "der Bäcker", "plural": "die Bäcker" },
+      "akkusativ": { "singular": "den Bäcker", "plural": "die Bäcker" },
+      "dativ": { "singular": "dem Bäcker", "plural": "den Bäckern" },
+      "genitiv": { "singular": "des Bäckers", "plural": "der Bäcker" }
+    },
+    "alternatives": [ "bäcker" ]
+  },
+  "der_Metzger": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the butcher",
+    "cases": {
+      "nominativ": { "singular": "der Metzger", "plural": "die Metzger" },
+      "akkusativ": { "singular": "den Metzger", "plural": "die Metzger" },
+      "dativ": { "singular": "dem Metzger", "plural": "den Metzgern" },
+      "genitiv": { "singular": "des Metzgers", "plural": "der Metzger" }
+    },
+    "alternatives": [ "metzger", "fleischer" ]
+  },
+  "der_Bauer": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the farmer",
+    "cases": {
+      "nominativ": { "singular": "der Bauer", "plural": "die Bauern" },
+      "akkusativ": { "singular": "den Bauern", "plural": "die Bauern" },
+      "dativ": { "singular": "dem Bauern", "plural": "den Bauern" },
+      "genitiv": { "singular": "des Bauern", "plural": "der Bauern" }
+    },
+    "alternatives": [ "bauer", "bauern" ]
+  },
+  "der_Verkäufer": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the salesperson (male)",
+    "cases": {
+      "nominativ": { "singular": "der Verkäufer", "plural": "die Verkäufer" },
+      "akkusativ": { "singular": "den Verkäufer", "plural": "die Verkäufer" },
+      "dativ": { "singular": "dem Verkäufer", "plural": "den Verkäufern" },
+      "genitiv": { "singular": "des Verkäufers", "plural": "der Verkäufer" }
+    },
+    "alternatives": [ "verkäufer" ]
+  },
+  "die_Verkäuferin": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the salesperson (female)",
+    "cases": {
+      "nominativ": { "singular": "die Verkäuferin", "plural": "die Verkäuferinnen" },
+      "akkusativ": { "singular": "die Verkäuferin", "plural": "die Verkäuferinnen" },
+      "dativ": { "singular": "der Verkäuferin", "plural": "den Verkäuferinnen" },
+      "genitiv": { "singular": "der Verkäuferin", "plural": "der Verkäuferinnen" }
+    },
+    "alternatives": [ "verkäuferin", "verkäuferinnen" ]
+  },
+  "der_Mechaniker": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the mechanic",
+    "cases": {
+      "nominativ": { "singular": "der Mechaniker", "plural": "die Mechaniker" },
+      "akkusativ": { "singular": "den Mechaniker", "plural": "die Mechaniker" },
+      "dativ": { "singular": "dem Mechaniker", "plural": "den Mechanikern" },
+      "genitiv": { "singular": "des Mechanikers", "plural": "der Mechaniker" }
+    },
+    "alternatives": [ "mechaniker" ]
+  },
+  "der_Feuerwehrmann": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the firefighter",
+    "cases": {
+      "nominativ": { "singular": "der Feuerwehrmann", "plural": "die Feuerwehrleute" },
+      "akkusativ": { "singular": "den Feuerwehrmann", "plural": "die Feuerwehrleute" },
+      "dativ": { "singular": "dem Feuerwehrmann", "plural": "den Feuerwehrleuten" },
+      "genitiv": { "singular": "des Feuerwehrmannes", "plural": "der Feuerwehrleute" }
+    },
+    "alternatives": [ "feuerwehrmann", "feuerwehrleute" ]
+  },
+  "der_Friseur": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the hairdresser (male)",
+    "cases": {
+      "nominativ": { "singular": "der Friseur", "plural": "die Friseure" },
+      "akkusativ": { "singular": "den Friseur", "plural": "die Friseure" },
+      "dativ": { "singular": "dem Friseur", "plural": "den Friseuren" },
+      "genitiv": { "singular": "des Friseurs", "plural": "der Friseure" }
+    },
+    "alternatives": [ "friseur", "friseure" ]
+  },
+  "die_Friseurin": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the hairdresser (female)",
+    "cases": {
+      "nominativ": { "singular": "die Friseurin", "plural": "die Friseurinnen" },
+      "akkusativ": { "singular": "die Friseurin", "plural": "die Friseurinnen" },
+      "dativ": { "singular": "der Friseurin", "plural": "den Friseurinnen" },
+      "genitiv": { "singular": "der Friseurin", "plural": "der Friseurinnen" }
+    },
+    "alternatives": [ "friseurin", "friseurinnen" ]
+  },
+  "der_Zoll": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the customs, duty",
+    "cases": {
+      "nominativ": { "singular": "der Zoll", "plural": "die Zölle" },
+      "akkusativ": { "singular": "den Zoll", "plural": "die Zölle" },
+      "dativ": { "singular": "dem Zoll", "plural": "den Zöllen" },
+      "genitiv": { "singular": "des Zolles", "plural": "der Zölle" }
+    },
+    "alternatives": [ "zoll", "zölle" ]
+  },
+  "das_Gepäck": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the luggage, baggage",
+    "cases": {
+      "nominativ": { "singular": "das Gepäck", "plural": "-" },
+      "akkusativ": { "singular": "das Gepäck", "plural": "-" },
+      "dativ": { "singular": "dem Gepäck", "plural": "-" },
+      "genitiv": { "singular": "des Gepäckes", "plural": "-" }
+    },
+    "alternatives": [ "gepäck" ]
+  },
+  "der_Flugsteig": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the gate (airport)",
+    "cases": {
+      "nominativ": { "singular": "der Flugsteig", "plural": "die Flugsteige" },
+      "akkusativ": { "singular": "den Flugsteig", "plural": "die Flugsteige" },
+      "dativ": { "singular": "dem Flugsteig", "plural": "den Flugsteigen" },
+      "genitiv": { "singular": "des Flugsteiges", "plural": "der Flugsteige" }
+    },
+    "alternatives": [ "flugsteig", "flugsteige" ]
+  },
+  "die_Verspätung": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the delay",
+    "cases": {
+      "nominativ": { "singular": "die Verspätung", "plural": "die Verspätungen" },
+      "akkusativ": { "singular": "die Verspätung", "plural": "die Verspätungen" },
+      "dativ": { "singular": "der Verspätung", "plural": "den Verspätungen" },
+      "genitiv": { "singular": "der Verspätung", "plural": "der Verspätungen" }
+    },
+    "alternatives": [ "verspätung", "verspätungen" ]
+  },
+  "der_Sitzplatz": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the seat",
+    "cases": {
+      "nominativ": { "singular": "der Sitzplatz", "plural": "die Sitzplätze" },
+      "akkusativ": { "singular": "den Sitzplatz", "plural": "die Sitzplätze" },
+      "dativ": { "singular": "dem Sitzplatz", "plural": "den Sitzplätzen" },
+      "genitiv": { "singular": "des Sitzplatzes", "plural": "der Sitzplätze" }
+    },
+    "alternatives": [ "sitzplatz", "sitzplätze" ]
+  },
+  "die_Unterkunft": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the accommodation",
+    "cases": {
+      "nominativ": { "singular": "die Unterkunft", "plural": "die Unterkünfte" },
+      "akkusativ": { "singular": "die Unterkunft", "plural": "die Unterkünfte" },
+      "dativ": { "singular": "der Unterkunft", "plural": "den Unterkünften" },
+      "genitiv": { "singular": "der Unterkunft", "plural": "der Unterkünfte" }
+    },
+    "alternatives": [ "unterkunft", "unterkünfte" ]
+  },
+  "der_Ausflug": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the excursion, trip",
+    "cases": {
+      "nominativ": { "singular": "der Ausflug", "plural": "die Ausflüge" },
+      "akkusativ": { "singular": "den Ausflug", "plural": "die Ausflüge" },
+      "dativ": { "singular": "dem Ausflug", "plural": "den Ausflügen" },
+      "genitiv": { "singular": "des Ausfluges", "plural": "der Ausflüge" }
+    },
+    "alternatives": [ "ausflug", "ausflüge" ]
+  },
+  "die_Sehenswürdigkeit": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the sight, tourist attraction",
+    "cases": {
+      "nominativ": { "singular": "die Sehenswürdigkeit", "plural": "die Sehenswürdigkeiten" },
+      "akkusativ": { "singular": "die Sehenswürdigkeit", "plural": "die Sehenswürdigkeiten" },
+      "dativ": { "singular": "der Sehenswürdigkeit", "plural": "den Sehenswürdigkeiten" },
+      "genitiv": { "singular": "der Sehenswürdigkeit", "plural": "der Sehenswürdigkeiten" }
+    },
+    "alternatives": [ "sehenswürdigkeit", "sehenswürdigkeiten" ]
+  },
+  "die_Jugendherberge": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the youth hostel",
+    "cases": {
+      "nominativ": { "singular": "die Jugendherberge", "plural": "die Jugendherbergen" },
+      "akkusativ": { "singular": "die Jugendherberge", "plural": "die Jugendherbergen" },
+      "dativ": { "singular": "der Jugendherberge", "plural": "den Jugendherbergen" },
+      "genitiv": { "singular": "der Jugendherberge", "plural": "der Jugendherbergen" }
+    },
+    "alternatives": [ "jugendherberge", "jugendherbergen" ]
+  },
+  "das_Souvenir": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the souvenir",
+    "cases": {
+      "nominativ": { "singular": "das Souvenir", "plural": "die Souvenirs" },
+      "akkusativ": { "singular": "das Souvenir", "plural": "die Souvenirs" },
+      "dativ": { "singular": "dem Souvenir", "plural": "den Souvenirs" },
+      "genitiv": { "singular": "des Souvenirs", "plural": "der Souvenirs" }
+    },
+    "alternatives": [ "souvenir", "souvenirs" ]
+  },
+  "der_Regenschauer": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the rain shower",
+    "cases": {
+      "nominativ": { "singular": "der Regenschauer", "plural": "die Regenschauer" },
+      "akkusativ": { "singular": "den Regenschauer", "plural": "die Regenschauer" },
+      "dativ": { "singular": "dem Regenschauer", "plural": "den Regenschauern" },
+      "genitiv": { "singular": "des Regenschauers", "plural": "der Regenschauer" }
+    },
+    "alternatives": [ "regenschauer" ]
+  },
+  "die_Hitze": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the heat",
+    "cases": {
+      "nominativ": { "singular": "die Hitze", "plural": "-" },
+      "akkusativ": { "singular": "die Hitze", "plural": "-" },
+      "dativ": { "singular": "der Hitze", "plural": "-" },
+      "genitiv": { "singular": "der Hitze", "plural": "-" }
+    },
+    "alternatives": [ "hitze" ]
+  },
+  "die_Kälte": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the cold",
+    "cases": {
+      "nominativ": { "singular": "die Kälte", "plural": "-" },
+      "akkusativ": { "singular": "die Kälte", "plural": "-" },
+      "dativ": { "singular": "der Kälte", "plural": "-" },
+      "genitiv": { "singular": "der Kälte", "plural": "-" }
+    },
+    "alternatives": [ "kälte" ]
+  },
+  "der_Hagel": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the hail",
+    "cases": {
+      "nominativ": { "singular": "der Hagel", "plural": "-" },
+      "akkusativ": { "singular": "den Hagel", "plural": "-" },
+      "dativ": { "singular": "dem Hagel", "plural": "-" },
+      "genitiv": { "singular": "des Hagels", "plural": "-" }
+    },
+    "alternatives": [ "hagel" ]
+  },
+  "der_Donner": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the thunder",
+    "cases": {
+      "nominativ": { "singular": "der Donner", "plural": "-" },
+      "akkusativ": { "singular": "den Donner", "plural": "-" },
+      "dativ": { "singular": "dem Donner", "plural": "-" },
+      "genitiv": { "singular": "des Donners", "plural": "-" }
+    },
+    "alternatives": [ "donner" ]
+  },
+  "der_Blitz": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the lightning",
+    "cases": {
+      "nominativ": { "singular": "der Blitz", "plural": "die Blitze" },
+      "akkusativ": { "singular": "den Blitz", "plural": "die Blitze" },
+      "dativ": { "singular": "dem Blitz", "plural": "den Blitzen" },
+      "genitiv": { "singular": "des Blitzes", "plural": "der Blitze" }
+    },
+    "alternatives": [ "blitz", "blitze" ]
+  },
+  "der_Norden": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the north",
+    "cases": {
+      "nominativ": { "singular": "der Norden", "plural": "-" },
+      "akkusativ": { "singular": "den Norden", "plural": "-" },
+      "dativ": { "singular": "dem Norden", "plural": "-" },
+      "genitiv": { "singular": "des Nordens", "plural": "-" }
+    },
+    "alternatives": [ "norden" ]
+  },
+  "der_Süden": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the south",
+    "cases": {
+      "nominativ": { "singular": "der Süden", "plural": "-" },
+      "akkusativ": { "singular": "den Süden", "plural": "-" },
+      "dativ": { "singular": "dem Süden", "plural": "-" },
+      "genitiv": { "singular": "des Südens", "plural": "-" }
+    },
+    "alternatives": [ "süden" ]
+  },
+  "der_Osten": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the east",
+    "cases": {
+      "nominativ": { "singular": "der Osten", "plural": "-" },
+      "akkusativ": { "singular": "den Osten", "plural": "-" },
+      "dativ": { "singular": "dem Osten", "plural": "-" },
+      "genitiv": { "singular": "des Ostens", "plural": "-" }
+    },
+    "alternatives": [ "osten" ]
+  },
+  "der_Westen": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the west",
+    "cases": {
+      "nominativ": { "singular": "der Westen", "plural": "-" },
+      "akkusativ": { "singular": "den Westen", "plural": "-" },
+      "dativ": { "singular": "dem Westen", "plural": "-" },
+      "genitiv": { "singular": "des Westens", "plural": "-" }
+    },
+    "alternatives": [ "westen" ]
+  },
+  "das_Tal": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the valley",
+    "cases": {
+      "nominativ": { "singular": "das Tal", "plural": "die Täler" },
+      "akkusativ": { "singular": "das Tal", "plural": "die Täler" },
+      "dativ": { "singular": "dem Tal", "plural": "den Tälern" },
+      "genitiv": { "singular": "des Tales", "plural": "der Täler" }
+    },
+    "alternatives": [ "tal", "täler" ]
+  },
+  "der_Hügel": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the hill",
+    "cases": {
+      "nominativ": { "singular": "der Hügel", "plural": "die Hügel" },
+      "akkusativ": { "singular": "den Hügel", "plural": "die Hügel" },
+      "dativ": { "singular": "dem Hügel", "plural": "den Hügeln" },
+      "genitiv": { "singular": "des Hügels", "plural": "der Hügel" }
+    },
+    "alternatives": [ "hügel" ]
+  },
+  "die_Wüste": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the desert",
+    "cases": {
+      "nominativ": { "singular": "die Wüste", "plural": "die Wüsten" },
+      "akkusativ": { "singular": "die Wüste", "plural": "die Wüsten" },
+      "dativ": { "singular": "der Wüste", "plural": "den Wüsten" },
+      "genitiv": { "singular": "der Wüste", "plural": "der Wüsten" }
+    },
+    "alternatives": [ "wüste", "wüsten" ]
+  },
+  "der_Dschungel": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the jungle",
+    "cases": {
+      "nominativ": { "singular": "der Dschungel", "plural": "die Dschungel" },
+      "akkusativ": { "singular": "den Dschungel", "plural": "die Dschungel" },
+      "dativ": { "singular": "dem Dschungel", "plural": "den Dschungeln" },
+      "genitiv": { "singular": "des Dschungels", "plural": "der Dschungel" }
+    },
+    "alternatives": [ "dschungel" ]
+  },
+  "der_Brief": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the letter",
+    "cases": {
+      "nominativ": { "singular": "der Brief", "plural": "die Briefe" },
+      "akkusativ": { "singular": "den Brief", "plural": "die Briefe" },
+      "dativ": { "singular": "dem Brief", "plural": "den Briefen" },
+      "genitiv": { "singular": "des Briefes", "plural": "der Briefe" }
+    },
+    "alternatives": [ "brief", "briefe" ]
+  },
+  "die_Briefmarke": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the postage stamp",
+    "cases": {
+      "nominativ": { "singular": "die Briefmarke", "plural": "die Briefmarken" },
+      "akkusativ": { "singular": "die Briefmarke", "plural": "die Briefmarken" },
+      "dativ": { "singular": "der Briefmarke", "plural": "den Briefmarken" },
+      "genitiv": { "singular": "der Briefmarke", "plural": "der Briefmarken" }
+    },
+    "alternatives": [ "briefmarke", "briefmarken" ]
+  },
+  "das_Paket": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the package, parcel",
+    "cases": {
+      "nominativ": { "singular": "das Paket", "plural": "die Pakete" },
+      "akkusativ": { "singular": "das Paket", "plural": "die Pakete" },
+      "dativ": { "singular": "dem Paket", "plural": "den Paketen" },
+      "genitiv": { "singular": "des Paketes", "plural": "der Pakete" }
+    },
+    "alternatives": [ "paket", "pakete" ]
+  },
+  "der_Umschlag": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the envelope",
+    "cases": {
+      "nominativ": { "singular": "der Umschlag", "plural": "die Umschläge" },
+      "akkusativ": { "singular": "den Umschlag", "plural": "die Umschläge" },
+      "dativ": { "singular": "dem Umschlag", "plural": "den Umschlägen" },
+      "genitiv": { "singular": "des Umschlages", "plural": "der Umschläge" }
+    },
+    "alternatives": [ "umschlag", "umschläge" ]
+  },
+  "der_Absender": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the sender",
+    "cases": {
+      "nominativ": { "singular": "der Absender", "plural": "die Absender" },
+      "akkusativ": { "singular": "den Absender", "plural": "die Absender" },
+      "dativ": { "singular": "dem Absender", "plural": "den Absendern" },
+      "genitiv": { "singular": "des Absenders", "plural": "der Absender" }
+    },
+    "alternatives": [ "absender" ]
+  },
+  "der_Empfänger": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the recipient",
+    "cases": {
+      "nominativ": { "singular": "der Empfänger", "plural": "die Empfänger" },
+      "akkusativ": { "singular": "den Empfänger", "plural": "die Empfänger" },
+      "dativ": { "singular": "dem Empfänger", "plural": "den Empfängern" },
+      "genitiv": { "singular": "des Empfängers", "plural": "der Empfänger" }
+    },
+    "alternatives": [ "empfänger" ]
+  },
+  "die_Postkarte": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the postcard",
+    "cases": {
+      "nominativ": { "singular": "die Postkarte", "plural": "die Postkarten" },
+      "akkusativ": { "singular": "die Postkarte", "plural": "die Postkarten" },
+      "dativ": { "singular": "der Postkarte", "plural": "den Postkarten" },
+      "genitiv": { "singular": "der Postkarte", "plural": "der Postkarten" }
+    },
+    "alternatives": [ "postkarte", "postkarten" ]
+  },
+  "der_Gegenstand": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the object, item",
+    "cases": {
+      "nominativ": { "singular": "der Gegenstand", "plural": "die Gegenstände" },
+      "akkusativ": { "singular": "den Gegenstand", "plural": "die Gegenstände" },
+      "dativ": { "singular": "dem Gegenstand", "plural": "den Gegenständen" },
+      "genitiv": { "singular": "des Gegenstandes", "plural": "der Gegenstände" }
+    },
+    "alternatives": [ "gegenstand", "gegenstände" ]
+  },
+  "die_Sache": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the thing, matter, affair",
+    "cases": {
+      "nominativ": { "singular": "die Sache", "plural": "die Sachen" },
+      "akkusativ": { "singular": "die Sache", "plural": "die Sachen" },
+      "dativ": { "singular": "der Sache", "plural": "den Sachen" },
+      "genitiv": { "singular": "der Sache", "plural": "der Sachen" }
+    },
+    "alternatives": [ "sache", "sachen" ]
+  },
+  "das_Ding": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the thing",
+    "cases": {
+      "nominativ": { "singular": "das Ding", "plural": "die Dinge" },
+      "akkusativ": { "singular": "das Ding", "plural": "die Dinge" },
+      "dativ": { "singular": "dem Ding", "plural": "den Dingen" },
+      "genitiv": { "singular": "des Dinges", "plural": "der Dinge" }
+    },
+    "alternatives": [ "ding", "dinge" ]
+  },
+  "das_Fahrrad": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the bicycle",
+    "cases": {
+      "nominativ": { "singular": "das Fahrrad", "plural": "die Fahrräder" },
+      "akkusativ": { "singular": "das Fahrrad", "plural": "die Fahrräder" },
+      "dativ": { "singular": "dem Fahrrad", "plural": "den Fahrrädern" },
+      "genitiv": { "singular": "des Fahrrades", "plural": "der Fahrräder" }
+    },
+    "alternatives": [ "fahrrad", "fahrräder", "rad" ]
+  },
+  "das_Flugzeug": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the airplane",
+    "cases": {
+      "nominativ": { "singular": "das Flugzeug", "plural": "die Flugzeuge" },
+      "akkusativ": { "singular": "das Flugzeug", "plural": "die Flugzeuge" },
+      "dativ": { "singular": "dem Flugzeug", "plural": "den Flugzeugen" },
+      "genitiv": { "singular": "des Flugzeuges", "plural": "der Flugzeuge" }
+    },
+    "alternatives": [ "flugzeug", "flugzeuge" ]
+  },
+  "der_Zug": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the train",
+    "cases": {
+      "nominativ": { "singular": "der Zug", "plural": "die Züge" },
+      "akkusativ": { "singular": "den Zug", "plural": "die Züge" },
+      "dativ": { "singular": "dem Zug", "plural": "den Zügen" },
+      "genitiv": { "singular": "des Zuges", "plural": "der Züge" }
+    },
+    "alternatives": [ "zug", "züge" ]
+  },
+  "der_Bus": {
+    "type": "noun",
+    "gender": "masculine",
+    "meaning": "the bus",
+    "cases": {
+      "nominativ": { "singular": "der Bus", "plural": "die Busse" },
+      "akkusativ": { "singular": "den Bus", "plural": "die Busse" },
+      "dativ": { "singular": "dem Bus", "plural": "den Bussen" },
+      "genitiv": { "singular": "des Busses", "plural": "der Busse" }
+    },
+    "alternatives": [ "bus", "busse" ]
+  },
+  "die_Fähre": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the ferry",
+    "cases": {
+      "nominativ": { "singular": "die Fähre", "plural": "die Fähren" },
+      "akkusativ": { "singular": "die Fähre", "plural": "die Fähren" },
+      "dativ": { "singular": "der Fähre", "plural": "den Fähren" },
+      "genitiv": { "singular": "der Fähre", "plural": "der Fähren" }
+    },
+    "alternatives": [ "fähre", "fähren" ]
+  },
+  "das_Schiff": {
+    "type": "noun",
+    "gender": "neuter",
+    "meaning": "the ship",
+    "cases": {
+      "nominativ": { "singular": "das Schiff", "plural": "die Schiffe" },
+      "akkusativ": { "singular": "das Schiff", "plural": "die Schiffe" },
+      "dativ": { "singular": "dem Schiff", "plural": "den Schiffen" },
+      "genitiv": { "singular": "des Schiffes", "plural": "der Schiffe" }
+    },
+    "alternatives": [ "schiff", "schiffe" ]
+  },
+  "die_Straßenbahn": {
+    "type": "noun",
+    "gender": "feminine",
+    "meaning": "the tram",
+    "cases": {
+      "nominativ": { "singular": "die Straßenbahn", "plural": "die Straßenbahnen" },
+      "akkusativ": { "singular": "die Straßenbahn", "plural": "die Straßenbahnen" },
+      "dativ": { "singular": "der Straßenbahn", "plural": "den Straßenbahnen" },
+      "genitiv": { "singular": "der Straßenbahn", "plural": "der Straßenbahnen" }
+    },
+    "alternatives": [ "straßenbahn", "straßenbahnen", "tram" ]
+  },
+  "abwaschen": {
+    "type": "verb",
+    "infinitive": "abwaschen",
+    "meaning": "to wash the dishes",
+    "conjugations": {
+      "present": { "ich": "wasche ab", "du": "wäschst ab", "er": "wäscht ab", "sie": "wäscht ab", "es": "wäscht ab", "wir": "waschen ab", "ihr": "wascht ab", "sie_plural": "waschen ab" },
+      "past": { "ich": "wusch ab", "du": "wuschst ab", "er": "wusch ab", "sie": "wusch ab", "es": "wusch ab", "wir": "wuschen ab", "ihr": "wuscht ab", "sie_plural": "wuschen ab" },
+      "perfect": { "ich": "habe abgewaschen", "du": "hast abgewaschen", "er": "hat abgewaschen", "sie": "hat abgewaschen", "es": "hat abgewaschen", "wir": "haben abgewaschen", "ihr": "habt abgewaschen", "sie_plural": "haben abgewaschen" }
+    },
+    "alternatives": [ "wasche ab", "wäschst ab", "wäscht ab", "wusch ab", "abgewaschen" ]
+  },
+  "bügeln": {
+    "type": "verb",
+    "infinitive": "bügeln",
+    "meaning": "to iron",
+    "conjugations": {
+      "present": { "ich": "bügele", "du": "bügelst", "er": "bügelt", "sie": "bügelt", "es": "bügelt", "wir": "bügeln", "ihr": "bügelt", "sie_plural": "bügeln" },
+      "past": { "ich": "bügelte", "du": "bügeltest", "er": "bügelte", "sie": "bügelte", "es": "bügelte", "wir": "bügelten", "ihr": "bügeltet", "sie_plural": "bügelten" },
+      "perfect": { "ich": "habe gebügelt", "du": "hast gebügelt", "er": "hat gebügelt", "sie": "hat gebügelt", "es": "hat gebügelt", "wir": "haben gebügelt", "ihr": "habt gebügelt", "sie_plural": "haben gebügelt" }
+    },
+    "alternatives": [ "bügele", "bügelst", "bügelt", "bügelte", "gebügelt" ]
+  },
+  "duschen": {
+    "type": "verb",
+    "infinitive": "duschen",
+    "meaning": "to shower",
+    "conjugations": {
+      "present": { "ich": "dusche", "du": "duschst", "er": "duscht", "sie": "duscht", "es": "duscht", "wir": "duschen", "ihr": "duscht", "sie_plural": "duschen" },
+      "past": { "ich": "duschte", "du": "duschtest", "er": "duschte", "sie": "duschte", "es": "duschte", "wir": "duschten", "ihr": "duschtet", "sie_plural": "duschten" },
+      "perfect": { "ich": "habe geduscht", "du": "hast geduscht", "er": "hat geduscht", "sie": "hat geduscht", "es": "hat geduscht", "wir": "haben geduscht", "ihr": "habt geduscht", "sie_plural": "haben geduscht" }
+    },
+    "alternatives": [ "dusche", "duschst", "duscht", "duschte", "geduscht" ]
+  },
+  "erzählen": {
+    "type": "verb",
+    "infinitive": "erzählen",
+    "meaning": "to tell, narrate",
+    "conjugations": {
+      "present": { "ich": "erzähle", "du": "erzählst", "er": "erzählt", "sie": "erzählt", "es": "erzählt", "wir": "erzählen", "ihr": "erzählt", "sie_plural": "erzählen" },
+      "past": { "ich": "erzählte", "du": "erzähltest", "er": "erzählte", "sie": "erzählte", "es": "erzählte", "wir": "erzählten", "ihr": "erzähltet", "sie_plural": "erzählten" },
+      "perfect": { "ich": "habe erzählt", "du": "hast erzählt", "er": "hat erzählt", "sie": "hat erzählt", "es": "hat erzählt", "wir": "haben erzählt", "ihr": "habt erzählt", "sie_plural": "haben erzählt" }
+    },
+    "alternatives": [ "erzähle", "erzählst", "erzählt", "erzählte" ]
+  },
+  "grillen": {
+    "type": "verb",
+    "infinitive": "grillen",
+    "meaning": "to grill, barbecue",
+    "conjugations": {
+      "present": { "ich": "grille", "du": "grillst", "er": "grillt", "sie": "grillt", "es": "grillt", "wir": "grillen", "ihr": "grillt", "sie_plural": "grillen" },
+      "past": { "ich": "grillte", "du": "grilltest", "er": "grillte", "sie": "grillte", "es": "grillte", "wir": "grillten", "ihr": "grilltet", "sie_plural": "grillten" },
+      "perfect": { "ich": "habe gegrillt", "du": "hast gegrillt", "er": "hat gegrillt", "sie": "hat gegrillt", "es": "hat gegrillt", "wir": "haben gegrillt", "ihr": "habt gegrillt", "sie_plural": "haben gegrillt" }
+    },
+    "alternatives": [ "grille", "grillst", "grillt", "grillte", "gegrillt" ]
+  },
+  "hängen": {
+    "type": "verb",
+    "infinitive": "hängen",
+    "meaning": "to hang",
+    "conjugations": {
+      "present": { "ich": "hänge", "du": "hängst", "er": "hängt", "sie": "hängt", "es": "hängt", "wir": "hängen", "ihr": "hängt", "sie_plural": "hängen" },
+      "past": { "ich": "hing", "du": "hingst", "er": "hing", "sie": "hing", "es": "hing", "wir": "hingen", "ihr": "hingt", "sie_plural": "hingen" },
+      "perfect": { "ich": "habe gehangen", "du": "hast gehangen", "er": "hat gehangen", "sie": "hat gehangen", "es": "hat gehangen", "wir": "haben gehangen", "ihr": "habt gehangen", "sie_plural": "haben gehangen" }
+    },
+    "alternatives": [ "hänge", "hängst", "hängt", "hing", "gehangen" ]
+  },
+  "hoffen": {
+    "type": "verb",
+    "infinitive": "hoffen",
+    "meaning": "to hope",
+    "conjugations": {
+      "present": { "ich": "hoffe", "du": "hoffst", "er": "hofft", "sie": "hofft", "es": "hofft", "wir": "hoffen", "ihr": "hofft", "sie_plural": "hoffen" },
+      "past": { "ich": "hoffte", "du": "hofftest", "er": "hoffte", "sie": "hoffte", "es": "hoffte", "wir": "hofften", "ihr": "hofftet", "sie_plural": "hofften" },
+      "perfect": { "ich": "habe gehofft", "du": "hast gehofft", "er": "hat gehofft", "sie": "hat gehofft", "es": "hat gehofft", "wir": "haben gehofft", "ihr": "habt gehofft", "sie_plural": "haben gehofft" }
+    },
+    "alternatives": [ "hoffe", "hoffst", "hofft", "hoffte", "gehofft" ]
+  },
+  "klingeln": {
+    "type": "verb",
+    "infinitive": "klingeln",
+    "meaning": "to ring (a bell)",
+    "conjugations": {
+      "present": { "ich": "klingele", "du": "klingelst", "er": "klingelt", "sie": "klingelt", "es": "klingelt", "wir": "klingeln", "ihr": "klingelt", "sie_plural": "klingeln" },
+      "past": { "ich": "klingelte", "du": "klingeltest", "er": "klingelte", "sie": "klingelte", "es": "klingelte", "wir": "klingelten", "ihr": "klingeltet", "sie_plural": "klingelten" },
+      "perfect": { "ich": "habe geklingelt", "du": "hast geklingelt", "er": "hat geklingelt", "sie": "hat geklingelt", "es": "hat geklingelt", "wir": "haben geklingelt", "ihr": "habt geklingelt", "sie_plural": "haben geklingelt" }
+    },
+    "alternatives": [ "klingele", "klingelst", "klingelt", "klingelte", "geklingelt" ]
+  },
+  "lachen": {
+    "type": "verb",
+    "infinitive": "lachen",
+    "meaning": "to laugh",
+    "conjugations": {
+      "present": { "ich": "lache", "du": "lachst", "er": "lacht", "sie": "lacht", "es": "lacht", "wir": "lachen", "ihr": "lacht", "sie_plural": "lachen" },
+      "past": { "ich": "lachte", "du": "lachtest", "er": "lachte", "sie": "lachte", "es": "lachte", "wir": "lachten", "ihr": "lachtet", "sie_plural": "lachten" },
+      "perfect": { "ich": "habe gelacht", "du": "hast gelacht", "er": "hat gelacht", "sie": "hat gelacht", "es": "hat gelacht", "wir": "haben gelacht", "ihr": "habt gelacht", "sie_plural": "haben gelacht" }
+    },
+    "alternatives": [ "lache", "lachst", "lacht", "lachte", "gelacht" ]
+  },
+  "leihen": {
+    "type": "verb",
+    "infinitive": "leihen",
+    "meaning": "to lend, borrow",
+    "conjugations": {
+      "present": { "ich": "leihe", "du": "leihst", "er": "leiht", "sie": "leiht", "es": "leiht", "wir": "leihen", "ihr": "leiht", "sie_plural": "leihen" },
+      "past": { "ich": "lieh", "du": "liehst", "er": "lieh", "sie": "lieh", "es": "lieh", "wir": "liehen", "ihr": "lieht", "sie_plural": "liehen" },
+      "perfect": { "ich": "habe geliehen", "du": "hast geliehen", "er": "hat geliehen", "sie": "hat geliehen", "es": "hat geliehen", "wir": "haben geliehen", "ihr": "habt geliehen", "sie_plural": "haben geliehen" }
+    },
+    "alternatives": [ "leihe", "leihst", "leiht", "lieh", "geliehen" ]
+  },
+  "lügen": {
+    "type": "verb",
+    "infinitive": "lügen",
+    "meaning": "to lie (tell a falsehood)",
+    "conjugations": {
+      "present": { "ich": "lüge", "du": "lügst", "er": "lügt", "sie": "lügt", "es": "lügt", "wir": "lügen", "ihr": "lügt", "sie_plural": "lügen" },
+      "past": { "ich": "log", "du": "logst", "er": "log", "sie": "log", "es": "log", "wir": "logen", "ihr": "logt", "sie_plural": "logen" },
+      "perfect": { "ich": "habe gelogen", "du": "hast gelogen", "er": "hat gelogen", "sie": "hat gelogen", "es": "hat gelogen", "wir": "haben gelogen", "ihr": "habt gelogen", "sie_plural": "haben gelogen" }
+    },
+    "alternatives": [ "lüge", "lügst", "lügt", "log", "gelogen" ]
+  },
+  "meinen": {
+    "type": "verb",
+    "infinitive": "meinen",
+    "meaning": "to mean, to think",
+    "conjugations": {
+      "present": { "ich": "meine", "du": "meinst", "er": "meint", "sie": "meint", "es": "meint", "wir": "meinen", "ihr": "meint", "sie_plural": "meinen" },
+      "past": { "ich": "meinte", "du": "meintest", "er": "meinte", "sie": "meinte", "es": "meinte", "wir": "meinten", "ihr": "meintet", "sie_plural": "meinten" },
+      "perfect": { "ich": "habe gemeint", "du": "hast gemeint", "er": "hat gemeint", "sie": "hat gemeint", "es": "hat gemeint", "wir": "haben gemeint", "ihr": "habt gemeint", "sie_plural": "haben gemeint" }
+    },
+    "alternatives": [ "meine", "meinst", "meint", "meinte", "gemeint" ]
+  },
+  "merken": {
+    "type": "verb",
+    "infinitive": "merken",
+    "meaning": "to notice, to remember",
+    "conjugations": {
+      "present": { "ich": "merke", "du": "merkst", "er": "merkt", "sie": "merkt", "es": "merkt", "wir": "merken", "ihr": "merkt", "sie_plural": "merken" },
+      "past": { "ich": "merkte", "du": "merktest", "er": "merkte", "sie": "merkte", "es": "merkte", "wir": "merkten", "ihr": "merktet", "sie_plural": "merkten" },
+      "perfect": { "ich": "habe gemerkt", "du": "hast gemerkt", "er": "hat gemerkt", "sie": "hat gemerkt", "es": "hat gemerkt", "wir": "haben gemerkt", "ihr": "habt gemerkt", "sie_plural": "haben gemerkt" }
+    },
+    "alternatives": [ "merke", "merkst", "merkt", "merkte", "gemerkt" ]
+  },
+  "nennen": {
+    "type": "verb",
+    "infinitive": "nennen",
+    "meaning": "to name, call",
+    "conjugations": {
+      "present": { "ich": "nenne", "du": "nennst", "er": "nennt", "sie": "nennt", "es": "nennt", "wir": "nennen", "ihr": "nennt", "sie_plural": "nennen" },
+      "past": { "ich": "nannte", "du": "nanntest", "er": "nannte", "sie": "nannte", "es": "nannte", "wir": "nannten", "ihr": "nanntet", "sie_plural": "nannten" },
+      "perfect": { "ich": "habe genannt", "du": "hast genannt", "er": "hat genannt", "sie": "hat genannt", "es": "hat genannt", "wir": "haben genannt", "ihr": "habt genannt", "sie_plural": "haben genannt" }
+    },
+    "alternatives": [ "nenne", "nennst", "nennt", "nannte", "genannt" ]
+  },
+  "organisieren": {
+    "type": "verb",
+    "infinitive": "organisieren",
+    "meaning": "to organize",
+    "conjugations": {
+      "present": { "ich": "organisiere", "du": "organisierst", "er": "organisiert", "sie": "organisiert", "es": "organisiert", "wir": "organisieren", "ihr": "organisiert", "sie_plural": "organisieren" },
+      "past": { "ich": "organisierte", "du": "organisiertest", "er": "organisierte", "sie": "organisierte", "es": "organisierte", "wir": "organisierten", "ihr": "organisiertet", "sie_plural": "organisierten" },
+      "perfect": { "ich": "habe organisiert", "du": "hast organisiert", "er": "hat organisiert", "sie": "hat organisiert", "es": "hat organisiert", "wir": "haben organisiert", "ihr": "habt organisiert", "sie_plural": "haben organisiert" }
+    },
+    "alternatives": [ "organisiere", "organisierst", "organisiert", "organisierte" ]
+  },
+  "parken": {
+    "type": "verb",
+    "infinitive": "parken",
+    "meaning": "to park",
+    "conjugations": {
+      "present": { "ich": "parke", "du": "parkst", "er": "parkt", "sie": "parkt", "es": "parkt", "wir": "parken", "ihr": "parkt", "sie_plural": "parken" },
+      "past": { "ich": "parkte", "du": "parktest", "er": "parkte", "sie": "parkte", "es": "parkte", "wir": "parkten", "ihr": "parktet", "sie_plural": "parkten" },
+      "perfect": { "ich": "habe geparkt", "du": "hast geparkt", "er": "hat geparkt", "sie": "hat geparkt", "es": "hat geparkt", "wir": "haben geparkt", "ihr": "habt geparkt", "sie_plural": "haben geparkt" }
+    },
+    "alternatives": [ "parke", "parkst", "parkt", "parkte", "geparkt" ]
+  },
+  "rauchen": {
+    "type": "verb",
+    "infinitive": "rauchen",
+    "meaning": "to smoke",
+    "conjugations": {
+      "present": { "ich": "rauche", "du": "rauchst", "er": "raucht", "sie": "raucht", "es": "raucht", "wir": "rauchen", "ihr": "raucht", "sie_plural": "rauchen" },
+      "past": { "ich": "rauchte", "du": "rauchtest", "er": "rauchte", "sie": "rauchte", "es": "rauchte", "wir": "rauchten", "ihr": "rauchtet", "sie_plural": "rauchten" },
+      "perfect": { "ich": "habe geraucht", "du": "hast geraucht", "er": "hat geraucht", "sie": "hat geraucht", "es": "hat geraucht", "wir": "haben geraucht", "ihr": "habt geraucht", "sie_plural": "haben geraucht" }
+    },
+    "alternatives": [ "rauche", "rauchst", "raucht", "rauchte", "geraucht" ]
+  },
+  "reagieren": {
+    "type": "verb",
+    "infinitive": "reagieren",
+    "meaning": "to react",
+    "conjugations": {
+      "present": { "ich": "reagiere", "du": "reagierst", "er": "reagiert", "sie": "reagiert", "es": "reagiert", "wir": "reagieren", "ihr": "reagiert", "sie_plural": "reagieren" },
+      "past": { "ich": "reagierte", "du": "reagiertest", "er": "reagierte", "sie": "reagierte", "es": "reagierte", "wir": "reagierten", "ihr": "reagiertet", "sie_plural": "reagierten" },
+      "perfect": { "ich": "habe reagiert", "du": "hast reagiert", "er": "hat reagiert", "sie": "hat reagiert", "es": "hat reagiert", "wir": "haben reagiert", "ihr": "habt reagiert", "sie_plural": "haben reagiert" }
+    },
+    "alternatives": [ "reagiere", "reagierst", "reagiert", "reagierte" ]
+  },
+  "reden": {
+    "type": "verb",
+    "infinitive": "reden",
+    "meaning": "to talk, speak",
+    "conjugations": {
+      "present": { "ich": "rede", "du": "redest", "er": "redet", "sie": "redet", "es": "redet", "wir": "reden", "ihr": "redet", "sie_plural": "reden" },
+      "past": { "ich": "redete", "du": "redetest", "er": "redete", "sie": "redete", "es": "redete", "wir": "redeten", "ihr": "redetet", "sie_plural": "redeten" },
+      "perfect": { "ich": "habe geredet", "du": "hast geredet", "er": "hat geredet", "sie": "hat geredet", "es": "hat geredet", "wir": "haben geredet", "ihr": "habt geredet", "sie_plural": "haben geredet" }
+    },
+    "alternatives": [ "rede", "redest", "redet", "redete", "geredet" ]
+  },
+  "scheinen": {
+    "type": "verb",
+    "infinitive": "scheinen",
+    "meaning": "to shine, seem",
+    "conjugations": {
+      "present": { "ich": "scheine", "du": "scheinst", "er": "scheint", "sie": "scheint", "es": "scheint", "wir": "scheinen", "ihr": "scheint", "sie_plural": "scheinen" },
+      "past": { "ich": "schien", "du": "schienst", "er": "schien", "sie": "schien", "es": "schien", "wir": "schienen", "ihr": "schient", "sie_plural": "schienen" },
+      "perfect": { "ich": "habe geschienen", "du": "hast geschienen", "er": "hat geschienen", "sie": "hat geschienen", "es": "hat geschienen", "wir": "haben geschienen", "ihr": "habt geschienen", "sie_plural": "haben geschienen" }
+    },
+    "alternatives": [ "scheine", "scheinst", "scheint", "schien", "geschienen" ]
+  },
+  "schneiden": {
+    "type": "verb",
+    "infinitive": "schneiden",
+    "meaning": "to cut",
+    "conjugations": {
+      "present": { "ich": "schneide", "du": "schneidest", "er": "schneidet", "sie": "schneidet", "es": "schneidet", "wir": "schneiden", "ihr": "schneidet", "sie_plural": "schneiden" },
+      "past": { "ich": "schnitt", "du": "schnittest", "er": "schnitt", "sie": "schnitt", "es": "schnitt", "wir": "schnitten", "ihr": "schnittet", "sie_plural": "schnitten" },
+      "perfect": { "ich": "habe geschnitten", "du": "hast geschnitten", "er": "hat geschnitten", "sie": "hat geschnitten", "es": "hat geschnitten", "wir": "haben geschnitten", "ihr": "habt geschnitten", "sie_plural": "haben geschnitten" }
+    },
+    "alternatives": [ "schneide", "schneidest", "schneidet", "schnitt", "geschnitten" ]
+  },
+  "setzen": {
+    "type": "verb",
+    "infinitive": "setzen",
+    "meaning": "to set, put, place",
+    "conjugations": {
+      "present": { "ich": "setze", "du": "setzt", "er": "setzt", "sie": "setzt", "es": "setzt", "wir": "setzen", "ihr": "setzt", "sie_plural": "setzen" },
+      "past": { "ich": "setzte", "du": "setztest", "er": "setzte", "sie": "setzte", "es": "setzte", "wir": "setzten", "ihr": "setztet", "sie_plural": "setzten" },
+      "perfect": { "ich": "habe gesetzt", "du": "hast gesetzt", "er": "hat gesetzt", "sie": "hat gesetzt", "es": "hat gesetzt", "wir": "haben gesetzt", "ihr": "habt gesetzt", "sie_plural": "haben gesetzt" }
+    },
+    "alternatives": [ "setze", "setzt", "setzte", "gesetzt" ]
+  },
+  "spülen": {
+    "type": "verb",
+    "infinitive": "spülen",
+    "meaning": "to rinse, wash",
+    "conjugations": {
+      "present": { "ich": "spüle", "du": "spülst", "er": "spült", "sie": "spült", "es": "spült", "wir": "spülen", "ihr": "spült", "sie_plural": "spülen" },
+      "past": { "ich": "spülte", "du": "spültest", "er": "spülte", "sie": "spülte", "es": "spülte", "wir": "spülten", "ihr": "spültet", "sie_plural": "spülten" },
+      "perfect": { "ich": "habe gespült", "du": "hast gespült", "er": "hat gespült", "sie": "hat gespült", "es": "hat gespült", "wir": "haben gespült", "ihr": "habt gespült", "sie_plural": "haben gespült" }
+    },
+    "alternatives": [ "spüle", "spülst", "spült", "spülte", "gespült" ]
+  },
+  "starten": {
+    "type": "verb",
+    "infinitive": "starten",
+    "meaning": "to start",
+    "conjugations": {
+      "present": { "ich": "starte", "du": "startest", "er": "startet", "sie": "startet", "es": "startet", "wir": "starten", "ihr": "startet", "sie_plural": "starten" },
+      "past": { "ich": "startete", "du": "startetest", "er": "startete", "sie": "startete", "es": "startete", "wir": "starteten", "ihr": "startetet", "sie_plural": "starteten" },
+      "perfect": { "ich": "bin gestartet", "du": "bist gestartet", "er": "ist gestartet", "sie": "ist gestartet", "es": "ist gestartet", "wir": "sind gestartet", "ihr": "seid gestartet", "sie_plural": "sind gestartet" }
+    },
+    "alternatives": [ "starte", "startest", "startet", "startete", "gestartet" ]
+  },
+  "stehlen": {
+    "type": "verb",
+    "infinitive": "stehlen",
+    "meaning": "to steal",
+    "conjugations": {
+      "present": { "ich": "stehle", "du": "stiehlst", "er": "stiehlt", "sie": "stiehlt", "es": "stiehlt", "wir": "stehlen", "ihr": "stehlt", "sie_plural": "stehlen" },
+      "past": { "ich": "stahl", "du": "stahlst", "er": "stahl", "sie": "stahl", "es": "stahl", "wir": "stahlen", "ihr": "stahlt", "sie_plural": "stahlen" },
+      "perfect": { "ich": "habe gestohlen", "du": "hast gestohlen", "er": "hat gestohlen", "sie": "hat gestohlen", "es": "hat gestohlen", "wir": "haben gestohlen", "ihr": "habt gestohlen", "sie_plural": "haben gestohlen" }
+    },
+    "alternatives": [ "stehle", "stiehlst", "stiehlt", "stehlt", "stahl", "gestohlen" ]
+  },
+  "stinken": {
+    "type": "verb",
+    "infinitive": "stinken",
+    "meaning": "to stink",
+    "conjugations": {
+      "present": { "ich": "stinke", "du": "stinkst", "er": "stinkt", "sie": "stinkt", "es": "stinkt", "wir": "stinken", "ihr": "stinkt", "sie_plural": "stinken" },
+      "past": { "ich": "stank", "du": "stankst", "er": "stank", "sie": "stank", "es": "stank", "wir": "stanken", "ihr": "stankt", "sie_plural": "stanken" },
+      "perfect": { "ich": "habe gestunken", "du": "hast gestunken", "er": "hat gestunken", "sie": "hat gestunken", "es": "hat gestunken", "wir": "haben gestunken", "ihr": "habt gestunken", "sie_plural": "haben gestunken" }
+    },
+    "alternatives": [ "stinke", "stinkst", "stinkt", "stank", "gestunken" ]
+  },
+  "tanken": {
+    "type": "verb",
+    "infinitive": "tanken",
+    "meaning": "to refuel",
+    "conjugations": {
+      "present": { "ich": "tanke", "du": "tankst", "er": "tankt", "sie": "tankt", "es": "tankt", "wir": "tanken", "ihr": "tankt", "sie_plural": "tanken" },
+      "past": { "ich": "tankte", "du": "tanktest", "er": "tankte", "sie": "tankte", "es": "tankte", "wir": "tankten", "ihr": "tanktet", "sie_plural": "tankten" },
+      "perfect": { "ich": "habe getankt", "du": "hast getankt", "er": "hat getankt", "sie": "hat getankt", "es": "hat getankt", "wir": "haben getankt", "ihr": "habt getankt", "sie_plural": "haben getankt" }
+    },
+    "alternatives": [ "tanke", "tankst", "tankt", "tankte", "getankt" ]
+  },
+  "täuschen": {
+    "type": "verb",
+    "infinitive": "täuschen",
+    "meaning": "to deceive, fool",
+    "conjugations": {
+      "present": { "ich": "täusche", "du": "täuscht", "er": "täuscht", "sie": "täuscht", "es": "täuscht", "wir": "täuschen", "ihr": "täuscht", "sie_plural": "täuschen" },
+      "past": { "ich": "täuschte", "du": "täuschtest", "er": "täuschte", "sie": "täuschte", "es": "täuschte", "wir": "täuschten", "ihr": "täuschtest", "sie_plural": "täuschten" },
+      "perfect": { "ich": "habe getäuscht", "du": "hast getäuscht", "er": "hat getäuscht", "sie": "hat getäuscht", "es": "hat getäuscht", "wir": "haben getäuscht", "ihr": "habt getäuscht", "sie_plural": "haben getäuscht" }
+    },
+    "alternatives": [ "täusche", "täuscht", "täuschte", "getäuscht" ]
+  },
+  "teilen": {
+    "type": "verb",
+    "infinitive": "teilen",
+    "meaning": "to share, divide",
+    "conjugations": {
+      "present": { "ich": "teile", "du": "teilst", "er": "teilt", "sie": "teilt", "es": "teilt", "wir": "teilen", "ihr": "teilt", "sie_plural": "teilen" },
+      "past": { "ich": "teilte", "du": "teiltest", "er": "teilte", "sie": "teilte", "es": "teilte", "wir": "teilten", "ihr": "teiltet", "sie_plural": "teilten" },
+      "perfect": { "ich": "habe geteilt", "du": "hast geteilt", "er": "hat geteilt", "sie": "hat geteilt", "es": "hat geteilt", "wir": "haben geteilt", "ihr": "habt geteilt", "sie_plural": "haben geteilt" }
+    },
+    "alternatives": [ "teile", "teilst", "teilt", "teilte", "geteilt" ]
+  },
+  "trennen": {
+    "type": "verb",
+    "infinitive": "trennen",
+    "meaning": "to separate",
+    "conjugations": {
+      "present": { "ich": "trenne", "du": "trennst", "er": "trennt", "sie": "trennt", "es": "trennt", "wir": "trennen", "ihr": "trennt", "sie_plural": "trennen" },
+      "past": { "ich": "trennte", "du": "trenntest", "er": "trennte", "sie": "trennte", "es": "trennte", "wir": "trennten", "ihr": "trenntet", "sie_plural": "trennten" },
+      "perfect": { "ich": "habe getrennt", "du": "hast getrennt", "er": "hat getrennt", "sie": "hat getrennt", "es": "hat getrennt", "wir": "haben getrennt", "ihr": "habt getrennt", "sie_plural": "haben getrennt" }
+    },
+    "alternatives": [ "trenne", "trennst", "trennt", "trennte", "getrennt" ]
+  },
+  "trocknen": {
+    "type": "verb",
+    "infinitive": "trocknen",
+    "meaning": "to dry",
+    "conjugations": {
+      "present": { "ich": "trockne", "du": "trocknest", "er": "trocknet", "sie": "trocknet", "es": "trocknet", "wir": "trocknen", "ihr": "trocknet", "sie_plural": "trocknen" },
+      "past": { "ich": "trocknete", "du": "trocknetest", "er": "trocknete", "sie": "trocknete", "es": "trocknete", "wir": "trockneten", "ihr": "trocknetet", "sie_plural": "trockneten" },
+      "perfect": { "ich": "habe getrocknet", "du": "hast getrocknet", "er": "hat getrocknet", "sie": "hat getrocknet", "es": "hat getrocknet", "wir": "haben getrocknet", "ihr": "habt getrocknet", "sie_plural": "haben getrocknet" }
+    },
+    "alternatives": [ "trockne", "trocknest", "trocknet", "trocknete", "getrocknet" ]
+  },
+  "überlegen": {
+    "type": "verb",
+    "infinitive": "überlegen",
+    "meaning": "to consider, think about",
+    "conjugations": {
+      "present": { "ich": "überlege", "du": "überlegst", "er": "überlegt", "sie": "überlegt", "es": "überlegt", "wir": "überlegen", "ihr": "überlegt", "sie_plural": "überlegen" },
+      "past": { "ich": "überlegte", "du": "überlegtest", "er": "überlegte", "sie": "überlegte", "es": "überlegte", "wir": "überlegten", "ihr": "überlegtet", "sie_plural": "überlegten" },
+      "perfect": { "ich": "habe überlegt", "du": "hast überlegt", "er": "hat überlegt", "sie": "hat überlegt", "es": "hat überlegt", "wir": "haben überlegt", "ihr": "habt überlegt", "sie_plural": "haben überlegt" }
+    },
+    "alternatives": [ "überlege", "überlegst", "überlegt", "überlegte" ]
+  },
+  "überraschen": {
+    "type": "verb",
+    "infinitive": "überraschen",
+    "meaning": "to surprise",
+    "conjugations": {
+      "present": { "ich": "überrasche", "du": "überraschst", "er": "überrascht", "sie": "überrascht", "es": "überrascht", "wir": "überraschen", "ihr": "überrascht", "sie_plural": "überraschen" },
+      "past": { "ich": "überraschte", "du": "überraschtest", "er": "überraschte", "sie": "überraschte", "es": "überraschte", "wir": "überraschten", "ihr": "überraschtet", "sie_plural": "überraschten" },
+      "perfect": { "ich": "habe überrascht", "du": "hast überrascht", "er": "hat überrascht", "sie": "hat überrascht", "es": "hat überrascht", "wir": "haben überrascht", "ihr": "habt überrascht", "sie_plural": "haben überrascht" }
+    },
+    "alternatives": [ "überrasche", "überraschst", "überrascht", "überraschte" ]
+  },
+  "unterrichten": {
+    "type": "verb",
+    "infinitive": "unterrichten",
+    "meaning": "to teach, instruct",
+    "conjugations": {
+      "present": { "ich": "unterrichte", "du": "unterrichtest", "er": "unterrichtet", "sie": "unterrichtet", "es": "unterrichtet", "wir": "unterrichten", "ihr": "unterrichtet", "sie_plural": "unterrichten" },
+      "past": { "ich": "unterrichtete", "du": "unterrichtetest", "er": "unterrichtete", "sie": "unterrichtete", "es": "unterrichtete", "wir": "unterrichteten", "ihr": "unterrichtetet", "sie_plural": "unterrichteten" },
+      "perfect": { "ich": "habe unterrichtet", "du": "hast unterrichtet", "er": "hat unterrichtet", "sie": "hat unterrichtet", "es": "hat unterrichtet", "wir": "haben unterrichtet", "ihr": "habt unterrichtet", "sie_plural": "haben unterrichtet" }
+    },
+    "alternatives": [ "unterrichte", "unterrichtest", "unterrichtet", "unterrichtete" ]
+  },
+  "unterschreiben": {
+    "type": "verb",
+    "infinitive": "unterschreiben",
+    "meaning": "to sign",
+    "conjugations": {
+      "present": { "ich": "unterschreibe", "du": "unterschreibst", "er": "unterschreibt", "sie": "unterschreibt", "es": "unterschreibt", "wir": "unterschreiben", "ihr": "unterschreibt", "sie_plural": "unterschreiben" },
+      "past": { "ich": "unterschrieb", "du": "unterschriebst", "er": "unterschrieb", "sie": "unterschrieb", "es": "unterschrieb", "wir": "unterschrieben", "ihr": "unterschriebt", "sie_plural": "unterschrieben" },
+      "perfect": { "ich": "habe unterschrieben", "du": "hast unterschrieben", "er": "hat unterschrieben", "sie": "hat unterschrieben", "es": "hat unterschrieben", "wir": "haben unterschrieben", "ihr": "habt unterschrieben", "sie_plural": "haben unterschrieben" }
+    },
+    "alternatives": [ "unterschreibe", "unterschreibst", "unterschreibt", "unterschrieb", "unterschrieben" ]
+  },
+  "verändern": {
+    "type": "verb",
+    "infinitive": "verändern",
+    "meaning": "to change, alter",
+    "conjugations": {
+      "present": { "ich": "verändere", "du": "veränderst", "er": "verändert", "sie": "verändert", "es": "verändert", "wir": "verändern", "ihr": "verändert", "sie_plural": "verändern" },
+      "past": { "ich": "veränderte", "du": "verändertest", "er": "veränderte", "sie": "veränderte", "es": "veränderte", "wir": "veränderten", "ihr": "verändertet", "sie_plural": "veränderten" },
+      "perfect": { "ich": "habe verändert", "du": "hast verändert", "er": "hat verändert", "sie": "hat verändert", "es": "hat verändert", "wir": "haben verändert", "ihr": "habt verändert", "sie_plural": "haben verändert" }
+    },
+    "alternatives": [ "verändere", "veränderst", "verändert", "veränderte" ]
+  },
+  "verbessern": {
+    "type": "verb",
+    "infinitive": "verbessern",
+    "meaning": "to improve",
+    "conjugations": {
+      "present": { "ich": "verbessere", "du": "verbesserst", "er": "verbessert", "sie": "verbessert", "es": "verbessert", "wir": "verbessern", "ihr": "verbessert", "sie_plural": "verbessern" },
+      "past": { "ich": "verbesserte", "du": "verbessertest", "er": "verbesserte", "sie": "verbesserte", "es": "verbesserte", "wir": "verbesserten", "ihr": "verbessertet", "sie_plural": "verbesserten" },
+      "perfect": { "ich": "habe verbessert", "du": "hast verbessert", "er": "hat verbessert", "sie": "hat verbessert", "es": "hat verbessert", "wir": "haben verbessert", "ihr": "habt verbessert", "sie_plural": "haben verbessert" }
+    },
+    "alternatives": [ "verbessere", "verbesserst", "verbessert", "verbesserte" ]
+  },
+  "verbrauchen": {
+    "type": "verb",
+    "infinitive": "verbrauchen",
+    "meaning": "to consume, use up",
+    "conjugations": {
+      "present": { "ich": "verbrauche", "du": "verbrauchst", "er": "verbraucht", "sie": "verbraucht", "es": "verbraucht", "wir": "verbrauchen", "ihr": "verbraucht", "sie_plural": "verbrauchen" },
+      "past": { "ich": "verbrauchte", "du": "verbrauchtest", "er": "verbrauchte", "sie": "verbrauchte", "es": "verbrauchte", "wir": "verbrauchten", "ihr": "verbrauchtet", "sie_plural": "verbrauchten" },
+      "perfect": { "ich": "habe verbraucht", "du": "hast verbraucht", "er": "hat verbraucht", "sie": "hat verbraucht", "es": "hat verbraucht", "wir": "haben verbraucht", "ihr": "habt verbraucht", "sie_plural": "haben verbraucht" }
+    },
+    "alternatives": [ "verbrauche", "verbrauchst", "verbraucht", "verbrauchte" ]
+  },
+  "verlangen": {
+    "type": "verb",
+    "infinitive": "verlangen",
+    "meaning": "to demand, require",
+    "conjugations": {
+      "present": { "ich": "verlange", "du": "verlangst", "er": "verlangt", "sie": "verlangt", "es": "verlangt", "wir": "verlangen", "ihr": "verlangt", "sie_plural": "verlangen" },
+      "past": { "ich": "verlangte", "du": "verlangtest", "er": "verlangte", "sie": "verlangte", "es": "verlangte", "wir": "verlangten", "ihr": "verlangtet", "sie_plural": "verlangten" },
+      "perfect": { "ich": "habe verlangt", "du": "hast verlangt", "er": "hat verlangt", "sie": "hat verlangt", "es": "hat verlangt", "wir": "haben verlangt", "ihr": "habt verlangt", "sie_plural": "haben verlangt" }
+    },
+    "alternatives": [ "verlange", "verlangst", "verlangt", "verlangte" ]
+  },
+  "verlassen": {
+    "type": "verb",
+    "infinitive": "verlassen",
+    "meaning": "to leave, abandon",
+    "conjugations": {
+      "present": { "ich": "verlasse", "du": "verlässt", "er": "verlässt", "sie": "verlässt", "es": "verlässt", "wir": "verlassen", "ihr": "verlasst", "sie_plural": "verlassen" },
+      "past": { "ich": "verließ", "du": "verließest", "er": "verließ", "sie": "verließ", "es": "verließ", "wir": "verließen", "ihr": "verließt", "sie_plural": "verließen" },
+      "perfect": { "ich": "habe verlassen", "du": "hast verlassen", "er": "hat verlassen", "sie": "hat verlassen", "es": "hat verlassen", "wir": "haben verlassen", "ihr": "habt verlassen", "sie_plural": "haben verlassen" }
+    },
+    "alternatives": [ "verlasse", "verlässt", "verlasst", "verließ", "verlassen" ]
+  },
+  "verletzen": {
+    "type": "verb",
+    "infinitive": "verletzen",
+    "meaning": "to injure, hurt",
+    "conjugations": {
+      "present": { "ich": "verletze", "du": "verletzt", "er": "verletzt", "sie": "verletzt", "es": "verletzt", "wir": "verletzen", "ihr": "verletzt", "sie_plural": "verletzen" },
+      "past": { "ich": "verletzte", "du": "verletztest", "er": "verletzte", "sie": "verletzte", "es": "verletzte", "wir": "verletzten", "ihr": "verletztet", "sie_plural": "verletzten" },
+      "perfect": { "ich": "habe verletzt", "du": "hast verletzt", "er": "hat verletzt", "sie": "hat verletzt", "es": "hat verletzt", "wir": "haben verletzt", "ihr": "habt verletzt", "sie_plural": "haben verletzt" }
+    },
+    "alternatives": [ "verletze", "verletzt", "verletzte" ]
+  },
+  "vermieten": {
+    "type": "verb",
+    "infinitive": "vermieten",
+    "meaning": "to rent out",
+    "conjugations": {
+      "present": { "ich": "vermiete", "du": "vermietest", "er": "vermietet", "sie": "vermietet", "es": "vermietet", "wir": "vermieten", "ihr": "vermietet", "sie_plural": "vermieten" },
+      "past": { "ich": "vermietete", "du": "vermietetest", "er": "vermietete", "sie": "vermietete", "es": "vermietete", "wir": "vermieteten", "ihr": "vermietetet", "sie_plural": "vermieteten" },
+      "perfect": { "ich": "habe vermietet", "du": "hast vermietet", "er": "hat vermietet", "sie": "hat vermietet", "es": "hat vermietet", "wir": "haben vermietet", "ihr": "habt vermietet", "sie_plural": "haben vermietet" }
+    },
+    "alternatives": [ "vermiete", "vermietest", "vermietet", "vermietete" ]
+  },
+  "verpassen": {
+    "type": "verb",
+    "infinitive": "verpassen",
+    "meaning": "to miss (an opportunity, a train)",
+    "conjugations": {
+      "present": { "ich": "verpasse", "du": "verpasst", "er": "verpasst", "sie": "verpasst", "es": "verpasst", "wir": "verpassen", "ihr": "verpasst", "sie_plural": "verpassen" },
+      "past": { "ich": "verpasste", "du": "verpasstest", "er": "verpasste", "sie": "verpasste", "es": "verpasste", "wir": "verpassten", "ihr": "verpasstet", "sie_plural": "verpassten" },
+      "perfect": { "ich": "habe verpasst", "du": "hast verpasst", "er": "hat verpasst", "sie": "hat verpasst", "es": "hat verpasst", "wir": "haben verpasst", "ihr": "habt verpasst", "sie_plural": "haben verpasst" }
+    },
+    "alternatives": [ "verpasse", "verpasst", "verpasste" ]
+  },
+  "verreisen": {
+    "type": "verb",
+    "infinitive": "verreisen",
+    "meaning": "to go on a trip",
+    "conjugations": {
+      "present": { "ich": "verreise", "du": "verreist", "er": "verreist", "sie": "verreist", "es": "verreist", "wir": "verreisen", "ihr": "verreist", "sie_plural": "verreisen" },
+      "past": { "ich": "verreiste", "du": "verreistest", "er": "verreiste", "sie": "verreiste", "es": "verreiste", "wir": "verreisten", "ihr": "verreistet", "sie_plural": "verreisten" },
+      "perfect": { "ich": "bin verreist", "du": "bist verreist", "er": "ist verreist", "sie": "ist verreist", "es": "ist verreist", "wir": "sind verreist", "ihr": "seid verreist", "sie_plural": "sind verreist" }
+    },
+    "alternatives": [ "verreise", "verreist", "verreiste" ]
+  },
+  "vertrauen": {
+    "type": "verb",
+    "infinitive": "vertrauen",
+    "meaning": "to trust",
+    "conjugations": {
+      "present": { "ich": "vertraue", "du": "vertraust", "er": "vertraut", "sie": "vertraut", "es": "vertraut", "wir": "vertrauen", "ihr": "vertraut", "sie_plural": "vertrauen" },
+      "past": { "ich": "vertraute", "du": "vertrautest", "er": "vertraute", "sie": "vertraute", "es": "vertraute", "wir": "vertrauten", "ihr": "vertrautet", "sie_plural": "vertrauten" },
+      "perfect": { "ich": "habe vertraut", "du": "hast vertraut", "er": "hat vertraut", "sie": "hat vertraut", "es": "hat vertraut", "wir": "haben vertraut", "ihr": "habt vertraut", "sie_plural": "haben vertraut" }
+    },
+    "alternatives": [ "vertraue", "vertraust", "vertraut", "vertraute" ]
+  },
+  "vorhaben": {
+    "type": "verb",
+    "infinitive": "vorhaben",
+    "meaning": "to plan, intend",
+    "conjugations": {
+      "present": { "ich": "habe vor", "du": "hast vor", "er": "hat vor", "sie": "hat vor", "es": "hat vor", "wir": "haben vor", "ihr": "habt vor", "sie_plural": "haben vor" },
+      "past": { "ich": "hatte vor", "du": "hattest vor", "er": "hatte vor", "sie": "hatte vor", "es": "hatte vor", "wir": "hatten vor", "ihr": "hattet vor", "sie_plural": "hatten vor" },
+      "perfect": { "ich": "habe vorgehabt", "du": "hast vorgehabt", "er": "hat vorgehabt", "sie": "hat vorgehabt", "es": "hat vorgehabt", "wir": "haben vorgehabt", "ihr": "habt vorgehabt", "sie_plural": "haben vorgehabt" }
+    },
+    "alternatives": [ "habe vor", "hast vor", "hat vor", "hatte vor", "vorgehabt" ]
+  },
+  "warnen": {
+    "type": "verb",
+    "infinitive": "warnen",
+    "meaning": "to warn",
+    "conjugations": {
+      "present": { "ich": "warne", "du": "warnst", "er": "warnt", "sie": "warnt", "es": "warnt", "wir": "warnen", "ihr": "warnt", "sie_plural": "warnen" },
+      "past": { "ich": "warnte", "du": "warntest", "er": "warnte", "sie": "warnte", "es": "warnte", "wir": "warnten", "ihr": "warntet", "sie_plural": "warnten" },
+      "perfect": { "ich": "habe gewarnt", "du": "hast gewarnt", "er": "hat gewarnt", "sie": "hat gewarnt", "es": "hat gewarnt", "wir": "haben gewarnt", "ihr": "habt gewarnt", "sie_plural": "haben gewarnt" }
+    },
+    "alternatives": [ "warne", "warnst", "warnt", "warnte", "gewarnt" ]
+  },
+  "wechseln": {
+    "type": "verb",
+    "infinitive": "wechseln",
+    "meaning": "to change, exchange",
+    "conjugations": {
+      "present": { "ich": "wechsle", "du": "wechselst", "er": "wechselt", "sie": "wechselt", "es": "wechselt", "wir": "wechseln", "ihr": "wechselt", "sie_plural": "wechseln" },
+      "past": { "ich": "wechselte", "du": "wechseltest", "er": "wechselte", "sie": "wechselte", "es": "wechselte", "wir": "wechselten", "ihr": "wechseltet", "sie_plural": "wechselten" },
+      "perfect": { "ich": "habe gewechselt", "du": "hast gewechselt", "er": "hat gewechselt", "sie": "hat gewechselt", "es": "hat gewechselt", "wir": "haben gewechselt", "ihr": "habt gewechselt", "sie_plural": "haben gewechselt" }
+    },
+    "alternatives": [ "wechsle", "wechselst", "wechselt", "wechselte", "gewechselt" ]
+  },
+  "weinen": {
+    "type": "verb",
+    "infinitive": "weinen",
+    "meaning": "to cry",
+    "conjugations": {
+      "present": { "ich": "weine", "du": "weinst", "er": "weint", "sie": "weint", "es": "weint", "wir": "weinen", "ihr": "weint", "sie_plural": "weinen" },
+      "past": { "ich": "weinte", "du": "weintest", "er": "weinte", "sie": "weinte", "es": "weinte", "wir": "weinten", "ihr": "weintet", "sie_plural": "weinten" },
+      "perfect": { "ich": "habe geweint", "du": "hast geweint", "er": "hat geweint", "sie": "hat geweint", "es": "hat geweint", "wir": "haben geweint", "ihr": "habt geweint", "sie_plural": "haben geweint" }
+    },
+    "alternatives": [ "weine", "weinst", "weint", "weinte", "geweint" ]
+  },
+  "wiedersehen": {
+    "type": "verb",
+    "infinitive": "wiedersehen",
+    "meaning": "to see again",
+    "conjugations": {
+      "present": { "ich": "sehe wieder", "du": "siehst wieder", "er": "sieht wieder", "sie": "sieht wieder", "es": "sieht wieder", "wir": "sehen wieder", "ihr": "seht wieder", "sie_plural": "sehen wieder" },
+      "past": { "ich": "sah wieder", "du": "sahst wieder", "er": "sah wieder", "sie": "sah wieder", "es": "sah wieder", "wir": "sahen wieder", "ihr": "saht wieder", "sie_plural": "sahen wieder" },
+      "perfect": { "ich": "habe wiedergesehen", "du": "hast wiedergesehen", "er": "hat wiedergesehen", "sie": "hat wiedergesehen", "es": "hat wiedergesehen", "wir": "haben wiedergesehen", "ihr": "habt wiedergesehen", "sie_plural": "haben wiedergesehen" }
+    },
+    "alternatives": [ "sehe wieder", "siehst wieder", "sieht wieder", "sah wieder", "wiedergesehen" ]
+  },
+  "wissen": {
+    "type": "verb",
+    "infinitive": "wissen",
+    "meaning": "to know (a fact)",
+    "conjugations": {
+      "present": { "ich": "weiß", "du": "weißt", "er": "weiß", "sie": "weiß", "es": "weiß", "wir": "wissen", "ihr": "wisst", "sie_plural": "wissen" },
+      "past": { "ich": "wusste", "du": "wusstest", "er": "wusste", "sie": "wusste", "es": "wusste", "wir": "wussten", "ihr": "wusstet", "sie_plural": "wussten" },
+      "perfect": { "ich": "habe gewusst", "du": "hast gewusst", "er": "hat gewusst", "sie": "hat gewusst", "es": "hat gewusst", "wir": "haben gewusst", "ihr": "habt gewusst", "sie_plural": "haben gewusst" }
+    },
+    "alternatives": [ "weiß", "weißt", "wissen", "wisst", "wusste", "gewusst" ]
+  },
+  "wohnen": {
+    "type": "verb",
+    "infinitive": "wohnen",
+    "meaning": "to live, reside",
+    "conjugations": {
+      "present": { "ich": "wohne", "du": "wohnst", "er": "wohnt", "sie": "wohnt", "es": "wohnt", "wir": "wohnen", "ihr": "wohnt", "sie_plural": "wohnen" },
+      "past": { "ich": "wohnte", "du": "wohntest", "er": "wohnte", "sie": "wohnte", "es": "wohnte", "wir": "wohnten", "ihr": "wohntet", "sie_plural": "wohnten" },
+      "perfect": { "ich": "habe gewohnt", "du": "hast gewohnt", "er": "hat gewohnt", "sie": "hat gewohnt", "es": "hat gewohnt", "wir": "haben gewohnt", "ihr": "habt gewohnt", "sie_plural": "haben gewohnt" }
+    },
+    "alternatives": [ "wohne", "wohnst", "wohnt", "wohnte", "gewohnt" ]
+  },
+  "zählen": {
+    "type": "verb",
+    "infinitive": "zählen",
+    "meaning": "to count",
+    "conjugations": {
+      "present": { "ich": "zähle", "du": "zählst", "er": "zählt", "sie": "zählt", "es": "zählt", "wir": "zählen", "ihr": "zählt", "sie_plural": "zählen" },
+      "past": { "ich": "zählte", "du": "zähltest", "er": "zählte", "sie": "zählte", "es": "zählte", "wir": "zählten", "ihr": "zähltet", "sie_plural": "zählten" },
+      "perfect": { "ich": "habe gezählt", "du": "hast gezählt", "er": "hat gezählt", "sie": "hat gezählt", "es": "hat gezählt", "wir": "haben gezählt", "ihr": "habt gezählt", "sie_plural": "haben gezählt" }
+    },
+    "alternatives": [ "zähle", "zählst", "zählt", "zählte", "gezählt" ]
+  },
+  "absolut": {
+    "type": "adjective",
+    "meaning": "absolute",
+    "alternatives": [ "absolut", "absolute", "absoluter", "absolutes" ]
+  },
+  "aktuell": {
+    "type": "adjective",
+    "meaning": "current, up-to-date",
+    "alternatives": [ "aktuell", "aktuelle", "aktueller", "aktuelles" ]
+  },
+  "automatisch": {
+    "type": "adjective",
+    "meaning": "automatic",
+    "alternatives": [ "automatisch", "automatische", "automatischer", "automatisches" ]
+  },
+  "beruflich": {
+    "type": "adjective",
+    "meaning": "professional",
+    "alternatives": [ "beruflich", "berufliche", "beruflicher", "berufliches" ]
+  },
+  "deutlich": {
+    "type": "adjective",
+    "meaning": "clear, distinct",
+    "alternatives": [ "deutlich", "deutliche", "deutlicher", "deutliches" ]
+  },
+  "eifersüchtig": {
+    "type": "adjective",
+    "meaning": "jealous",
+    "alternatives": [ "eifersüchtig", "eifersüchtige", "eifersüchtiger", "eifersüchtiges" ]
+  },
+  "einzig": {
+    "type": "adjective",
+    "meaning": "only, single",
+    "alternatives": [ "einzig", "einzige", "einziger", "einziges" ]
+  },
+  "elektrisch": {
+    "type": "adjective",
+    "meaning": "electric",
+    "alternatives": [ "elektrisch", "elektrische", "elektrischer", "elektrisches" ]
+  },
+  "enorm": {
+    "type": "adjective",
+    "meaning": "enormous",
+    "alternatives": [ "enorm", "enorme", "enormer", "enormes" ]
+  },
+  "erfolgreich": {
+    "type": "adjective",
+    "meaning": "successful",
+    "alternatives": [ "erfolgreich", "erfolgreiche", "erfolgreicher", "erfolgreiches" ]
+  },
+  "extra": {
+    "type": "adjective",
+    "meaning": "extra, special",
+    "alternatives": [ "extra" ]
+  },
+  "fair": {
+    "type": "adjective",
+    "meaning": "fair",
+    "alternatives": [ "fair", "faire", "fairer", "faires" ]
+  },
+  "fest": {
+    "type": "adjective",
+    "meaning": "firm, solid",
+    "alternatives": [ "fest", "feste", "fester", "festes" ]
+  },
+  "finanziell": {
+    "type": "adjective",
+    "meaning": "financial",
+    "alternatives": [ "finanziell", "finanzielle", "finanzieller", "finanzielles" ]
+  },
+  "fit": {
+    "type": "adjective",
+    "meaning": "fit, in shape",
+    "alternatives": [ "fit", "fitte", "fitter", "fittes" ]
+  },
+  "flexibel": {
+    "type": "adjective",
+    "meaning": "flexible",
+    "alternatives": [ "flexibel", "flexible", "flexibler", "flexibles" ]
+  },
+  "flüssig": {
+    "type": "adjective",
+    "meaning": "liquid, fluent",
+    "alternatives": [ "flüssig", "flüssige", "flüssiger", "flüssiges" ]
+  },
+  "furchtbar": {
+    "type": "adjective",
+    "meaning": "terrible, awful",
+    "alternatives": [ "furchtbar", "furchtbare", "furchtbarer", "furchtbares" ]
+  },
+  "geeignet": {
+    "type": "adjective",
+    "meaning": "suitable",
+    "alternatives": [ "geeignet", "geeignete", "geeigneter", "geeignetes" ]
+  },
+  "geheim": {
+    "type": "adjective",
+    "meaning": "secret",
+    "alternatives": [ "geheim", "geheime", "geheimer", "geheimes" ]
+  },
+  "gemeinsam": {
+    "type": "adjective",
+    "meaning": "common, together",
+    "alternatives": [ "gemeinsam", "gemeinsame", "gemeinsamer", "gemeinsames" ]
+  },
+  "genug": {
+    "type": "adjective",
+    "meaning": "enough",
+    "alternatives": [ "genug" ]
+  },
+  "gesamt": {
+    "type": "adjective",
+    "meaning": "total, whole",
+    "alternatives": [ "gesamt", "gesamte", "gesamter", "gesamtes" ]
+  },
+  "geschäftlich": {
+    "type": "adjective",
+    "meaning": "business-related",
+    "alternatives": [ "geschäftlich", "geschäftliche", "geschäftlicher", "geschäftliches" ]
+  },
+  "gewöhnlich": {
+    "type": "adjective",
+    "meaning": "usual, ordinary",
+    "alternatives": [ "gewöhnlich", "gewöhnliche", "gewöhnlicher", "gewöhnliches" ]
+  },
+  "günstig": {
+    "type": "adjective",
+    "meaning": "favorable, cheap",
+    "alternatives": [ "günstig", "günstige", "günstiger", "günstiges" ]
+  },
+  "halb": {
+    "type": "adjective",
+    "meaning": "half",
+    "alternatives": [ "halb", "halbe", "halber", "halbes" ]
+  },
+  "individuell": {
+    "type": "adjective",
+    "meaning": "individual",
+    "alternatives": [ "individuell", "individuelle", "individueller", "individuelles" ]
+  },
+  "intensiv": {
+    "type": "adjective",
+    "meaning": "intensive",
+    "alternatives": [ "intensiv", "intensive", "intensiver", "intensives" ]
+  },
+  "jeweilig": {
+    "type": "adjective",
+    "meaning": "respective, particular",
+    "alternatives": [ "jeweilig", "jeweilige", "jeweiliger", "jeweiliges" ]
+  },
+  "knapp": {
+    "type": "adjective",
+    "meaning": "scarce, tight",
+    "alternatives": [ "knapp", "knappe", "knapper", "knappes" ]
+  },
+  "komplett": {
+    "type": "adjective",
+    "meaning": "complete",
+    "alternatives": [ "komplett", "komplette", "kompletter", "komplettes" ]
+  },
+  "konkret": {
+    "type": "adjective",
+    "meaning": "concrete, specific",
+    "alternatives": [ "konkret", "konkrete", "konkreter", "konkretes" ]
+  },
+  "konstant": {
+    "type": "adjective",
+    "meaning": "constant",
+    "alternatives": [ "konstant", "konstante", "konstanter", "konstantes" ]
+  },
+  "kostenlos": {
+    "type": "adjective",
+    "meaning": "free of charge",
+    "alternatives": [ "kostenlos", "kostenlose", "kostenloser", "kostenloses" ]
+  },
+  "kräftig": {
+    "type": "adjective",
+    "meaning": "strong, powerful",
+    "alternatives": [ "kräftig", "kräftige", "kräftiger", "kräftiges" ]
+  },
+  "kreativ": {
+    "type": "adjective",
+    "meaning": "creative",
+    "alternatives": [ "kreativ", "kreative", "kreativer", "kreatives" ]
+  },
+  "künstlich": {
+    "type": "adjective",
+    "meaning": "artificial",
+    "alternatives": [ "künstlich", "künstliche", "künstlicher", "künstliches" ]
+  },
+  "lebhaft": {
+    "type": "adjective",
+    "meaning": "lively",
+    "alternatives": [ "lebhaft", "lebhafte", "lebhafter", "lebhaftes" ]
+  },
+  "legal": {
+    "type": "adjective",
+    "meaning": "legal",
+    "alternatives": [ "legal", "legale", "legaler", "legales" ]
+  },
+  "logisch": {
+    "type": "adjective",
+    "meaning": "logical",
+    "alternatives": [ "logisch", "logische", "logischer", "logisches" ]
+  },
+  "maximal": {
+    "type": "adjective",
+    "meaning": "maximum",
+    "alternatives": [ "maximal", "maximale", "maximaler", "maximales" ]
+  },
+  "männlich": {
+    "type": "adjective",
+    "meaning": "male, masculine",
+    "alternatives": [ "männlich", "männliche", "männnlicher", "männliches" ]
+  },
+  "mild": {
+    "type": "adjective",
+    "meaning": "mild",
+    "alternatives": [ "mild", "milde", "milder", "mildes" ]
+  },
+  "mündlich": {
+    "type": "adjective",
+    "meaning": "oral, verbal",
+    "alternatives": [ "mündlich", "mündliche", "mündlicher", "mündliches" ]
+  },
+  "nützlich": {
+    "type": "adjective",
+    "meaning": "useful",
+    "alternatives": [ "nützlich", "nützliche", "nützlicher", "nützliches" ]
+  },
+  "objektiv": {
+    "type": "adjective",
+    "meaning": "objective",
+    "alternatives": [ "objektiv", "objektive", "objektiver", "objektives" ]
+  },
+  "persönlich": {
+    "type": "adjective",
+    "meaning": "personal",
+    "alternatives": [ "persönlich", "persönliche", "persönlicher", "persönliches" ]
+  },
+  "regional": {
+    "type": "adjective",
+    "meaning": "regional",
+    "alternatives": [ "regional", "regionale", "regionaler", "regionales" ]
+  },
+  "riesig": {
+    "type": "adjective",
+    "meaning": "huge, giant",
+    "alternatives": [ "riesig", "riesige", "riesiger", "riesiges" ]
+  },
+  "sozial": {
+    "type": "adjective",
+    "meaning": "social",
+    "alternatives": [ "sozial", "soziale", "sozialer", "soziales" ]
+  },
+  "speziell": {
+    "type": "adjective",
+    "meaning": "special",
+    "alternatives": [ "speziell", "spezielle", "spezieller", "spezielles" ]
+  },
+  "staatlich": {
+    "type": "adjective",
+    "meaning": "state-owned, public",
+    "alternatives": [ "staatlich", "staatliche", "staatlicher", "staatliches" ]
+  },
+  "stabil": {
+    "type": "adjective",
+    "meaning": "stable",
+    "alternatives": [ "stabil", "stabile", "stabiler", "stabiles" ]
+  },
+  "super": {
+    "type": "adjective",
+    "meaning": "super, great",
+    "alternatives": [ "super" ]
+  },
+  "sicherlich": {
+    "type": "adjective",
+    "meaning": "certainly, surely",
+    "alternatives": [ "sicherlich" ]
+  },
+  "technisch": {
+    "type": "adjective",
+    "meaning": "technical",
+    "alternatives": [ "technisch", "technische", "technischer", "technisches" ]
+  },
+  "theoretisch": {
+    "type": "adjective",
+    "meaning": "theoretical",
+    "alternatives": [ "theoretisch", "theoretische", "theoretischer", "theoretisches" ]
+  },
+  "total": {
+    "type": "adjective",
+    "meaning": "total, complete",
+    "alternatives": [ "total", "totale", "totaler", "totales" ]
+  },
+  "traditionell": {
+    "type": "adjective",
+    "meaning": "traditional",
+    "alternatives": [ "traditionell", "traditionelle", "traditioneller", "traditionelles" ]
+  },
+  "üblich": {
+    "type": "adjective",
+    "meaning": "usual, common",
+    "alternatives": [ "üblich", "übliche", "üblicher", "übliches" ]
+  },
+  "unangenehm": {
+    "type": "adjective",
+    "meaning": "unpleasant",
+    "alternatives": [ "unangenehm", "unangenehme", "unangenehmer", "unangenehmes" ]
+  },
+  "unabhängig": {
+    "type": "adjective",
+    "meaning": "independent",
+    "alternatives": [ "unabhängig", "unabhängige", "unabhängiger", "unabhängiges" ]
+  },
+  "unbekannt": {
+    "type": "adjective",
+    "meaning": "unknown",
+    "alternatives": [ "unbekannt", "unbekannte", "unbekannter", "unbekanntes" ]
+  },
+  "ungewöhnlich": {
+    "type": "adjective",
+    "meaning": "unusual",
+    "alternatives": [ "ungewöhnlich", "ungewöhnliche", "ungewöhnlicher", "ungewöhnliches" ]
+  },
+  "unten": {
+    "type": "adjective",
+    "meaning": "below, downstairs",
+    "alternatives": [ "unten" ]
+  },
+  "verantwortlich": {
+    "type": "adjective",
+    "meaning": "responsible",
+    "alternatives": [ "verantwortlich", "verantwortliche", "verantwortlicher", "verantwortliches" ]
+  },
+  "verboten": {
+    "type": "adjective",
+    "meaning": "forbidden",
+    "alternatives": [ "verboten", "verbotene", "verbotener", "verbotenes" ]
+  },
+  "vergleichbar": {
+    "type": "adjective",
+    "meaning": "comparable",
+    "alternatives": [ "vergleichbar", "vergleichbare", "vergleichbarer", "vergleichbares" ]
+  },
+  "verrückt": {
+    "type": "adjective",
+    "meaning": "crazy, mad",
+    "alternatives": [ "verrückt", "verrückte", "verrückter", "verrücktes" ]
+  },
+  "vielfältig": {
+    "type": "adjective",
+    "meaning": "diverse, varied",
+    "alternatives": [ "vielfältig", "vielfältige", "vielfältiger", "vielfältiges" ]
+  },
+  "völlig": {
+    "type": "adjective",
+    "meaning": "complete, total",
+    "alternatives": [ "völlig", "völlige", "völliger", "völliges" ]
+  },
+  "wert": {
+    "type": "adjective",
+    "meaning": "worth, valuable",
+    "alternatives": [ "wert", "werte", "werter", "wertes" ]
+  },
+  "wirklich": {
+    "type": "adjective",
+    "meaning": "real, really",
+    "alternatives": [ "wirklich", "wirkliche", "wirklicher", "wirkliches" ]
+  },
+  "wirtschaftlich": {
+    "type": "adjective",
+    "meaning": "economic",
+    "alternatives": [ "wirtschaftlich", "wirtschaftliche", "wirtschaftlicher", "wirtschaftliches" ]
+  },
+  "wissenschaftlich": {
+    "type": "adjective",
+    "meaning": "scientific",
+    "alternatives": [ "wissenschaftlich", "wissenschaftliche", "wissenschaftlicher", "wissenschaftliches" ]
+  },
+  "zahlreich": {
+    "type": "adjective",
+    "meaning": "numerous",
+    "alternatives": [ "zahlreich", "zahlreiche", "zahlreicher", "zahlreiches" ]
+  },
+  "zentral": {
+    "type": "adjective",
+    "meaning": "central",
+    "alternatives": [ "zentral", "zentrale", "zentraler", "zentrales" ]
+  },
+  "zufällig": {
+    "type": "adjective",
+    "meaning": "random, by chance",
+    "alternatives": [ "zufällig", "zufällige", "zufälliger", "zufälliges" ]
+  },
+  "zusätzlich": {
+    "type": "adjective",
+    "meaning": "additional",
+    "alternatives": [ "zusätzlich", "zusätzliche", "zusätzlicher", "zusätzliches" ]
   }
 }
